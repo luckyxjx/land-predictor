@@ -1,0 +1,1601 @@
+area,location,city,road_width,amenities,distance_from_city,land_type,price
+856,bandra,mumbai,32,"mall,metro",11.696322144464682,residential,31201365.72
+756,bandra,mumbai,17,"school,hospital",7.810857195847774,residential,35251422.11
+2469,bandra,mumbai,50,"mall,metro",26.480588387672103,commercial,115638916.36
+1302,bandra,mumbai,32,"school,hospital",27.764221013893017,residential,57399663.21
+2131,bandra,mumbai,24,"mall,metro",33.716392166203434,commercial,89767329.31
+818,bandra,mumbai,21,"park,school",30.424830990423793,commercial,30813589.8
+577,bandra,mumbai,49,"school,hospital",34.19347291938112,commercial,28350994.34
+722,bandra,mumbai,38,"mall,metro",26.137155086447706,residential,33166320.04
+1333,bandra,mumbai,20,"mall,metro",30.99451000265809,commercial,66537001.77
+1538,bandra,mumbai,38,"mall,metro",16.10542901350648,residential,67920210.81
+1493,bandra,mumbai,19,"mall,metro",21.02419631089124,residential,72608719.1
+1069,bandra,mumbai,32,"mall,metro",25.53842752969624,residential,47378811.0
+1338,bandra,mumbai,35,"hospital,mall",13.032226279271082,residential,67960293.67
+1688,bandra,mumbai,46,"hospital,mall",31.540494616601073,commercial,67228444.91
+985,bandra,mumbai,30,"park,school",27.410414349567738,commercial,40156325.35
+2035,bandra,mumbai,23,"hospital,mall",7.727282365213817,residential,86519929.73
+849,bandra,mumbai,25,"hospital,mall",22.892270921959216,commercial,32899721.04
+1963,bandra,mumbai,44,"park,school",34.13235132840855,residential,91723121.73
+869,bandra,mumbai,49,"park,school",28.057961979723377,commercial,41947313.59
+856,bandra,mumbai,25,"hospital,mall",5.0973594830518785,commercial,35338249.98
+2450,bandra,mumbai,47,"school,hospital",31.115557095103007,commercial,121802532.98
+2479,bandra,mumbai,24,"park,school",27.875324002254537,residential,116417468.77
+1727,bandra,mumbai,22,"park,school",31.361656334695528,commercial,77360797.04
+1380,bandra,mumbai,20,"school,hospital",26.95722784533883,residential,51118861.14
+915,bandra,mumbai,45,"mall,metro",12.951698868201774,commercial,35054607.42
+1267,bandra,mumbai,27,"park,school",16.969768999922874,commercial,66796801.12
+2194,bandra,mumbai,43,"school,hospital",12.437168409980238,residential,114511559.43
+1784,bandra,mumbai,50,"mall,metro",22.65320343231053,residential,64899452.16
+690,bandra,mumbai,18,"mall,metro",7.022009843309225,residential,33631384.56
+1753,bandra,mumbai,30,"park,school",25.069333348888417,residential,65343832.82
+941,bandra,mumbai,45,"mall,metro",28.538582728722602,commercial,46128145.76
+1179,bandra,mumbai,42,"park,school",17.707358690597623,commercial,44445782.05
+621,bandra,mumbai,21,"school,hospital",17.078638463068064,commercial,29882868.91
+847,bandra,mumbai,27,"hospital,mall",9.205468912843234,residential,34283014.47
+1540,bandra,mumbai,19,"hospital,mall",29.240667341951077,residential,68264050.06
+607,bandra,mumbai,49,"school,hospital",34.06988771854254,residential,28977335.11
+1081,bandra,mumbai,45,"mall,metro",30.939511820906464,residential,46824004.74
+1074,bandra,mumbai,39,"park,school",32.79554220678,commercial,45990308.34
+1568,bandra,mumbai,50,"hospital,mall",9.643904758221924,commercial,68386963.28
+1291,bandra,mumbai,49,"school,hospital",27.439266811371922,residential,68986868.22
+605,bandra,mumbai,47,"mall,metro",6.7063873918605355,residential,28141694.0
+1161,bandra,mumbai,19,"mall,metro",17.113266539548324,residential,43227958.81
+562,bandra,mumbai,41,"park,school",33.041187732092816,residential,26497663.36
+1686,bandra,mumbai,40,"mall,metro",25.15070668879914,commercial,67939641.29
+2272,bandra,mumbai,19,"school,hospital",18.748565678557583,residential,94722382.62
+700,bandra,mumbai,47,"park,school",8.973697110994019,commercial,31974193.49
+681,bandra,mumbai,38,"park,school",9.73240497071696,commercial,35294094.63
+432,bandra,mumbai,50,"park,school",32.95268118308232,residential,20745304.27
+950,bandra,mumbai,21,"mall,metro",13.17044636944449,residential,38722367.26
+1804,bandra,mumbai,31,"hospital,mall",12.533637562096823,residential,71555211.93
+778,bandra,mumbai,32,"school,hospital",5.106370672633469,residential,36890519.4
+1472,bandra,mumbai,43,"hospital,mall",21.82720594324239,residential,57273276.04
+708,bandra,mumbai,24,"school,hospital",30.0378505965805,residential,37531729.17
+2160,bandra,mumbai,34,"park,school",31.9694446622777,residential,82715081.79
+1865,bandra,mumbai,30,"school,hospital",15.61035903843855,commercial,74192269.39
+1033,bandra,mumbai,30,"mall,metro",34.28618098792889,residential,54401652.52
+2088,bandra,mumbai,36,"hospital,mall",29.06705416811417,residential,76099570.63
+1492,bandra,mumbai,21,"hospital,mall",31.16500348718269,commercial,57987417.27
+1311,bandra,mumbai,44,"park,school",14.155726020158017,residential,51905519.64
+1313,bandra,mumbai,27,"hospital,mall",14.847858535931195,residential,47827285.25
+1543,bandra,mumbai,47,"hospital,mall",25.38554355080791,commercial,65300732.59
+513,bandra,mumbai,31,"mall,metro",22.417692012161233,commercial,19533065.74
+556,bandra,mumbai,42,"park,school",26.85635181958113,commercial,21100892.69
+2187,bandra,mumbai,47,"school,hospital",16.555863000341816,residential,102596017.72
+1443,bandra,mumbai,42,"school,hospital",20.597610456997565,residential,53100895.83
+1891,bandra,mumbai,36,"park,school",24.901624287966328,residential,82756500.89
+1630,bandra,mumbai,41,"park,school",17.07201161173174,commercial,73558974.27
+921,bandra,mumbai,39,"mall,metro",23.465447478541417,commercial,36336325.06
+2063,bandra,mumbai,15,"park,school",13.607411506067816,commercial,94615100.47
+1719,bandra,mumbai,43,"mall,metro",20.33521990623761,residential,76271664.58
+747,bandra,mumbai,36,"school,hospital",29.552703936099928,residential,30707792.0
+1671,bandra,mumbai,27,"mall,metro",5.73276163180479,residential,66912741.95
+2346,bandra,mumbai,19,"hospital,mall",17.433230329931583,residential,110268877.33
+1972,bandra,mumbai,30,"mall,metro",24.681740333353524,residential,88540411.99
+836,bandra,mumbai,29,"mall,metro",29.12329568519429,commercial,41809670.28
+605,bandra,mumbai,22,"hospital,mall",9.000173166710866,commercial,27850149.1
+1699,bandra,mumbai,43,"hospital,mall",29.917075091642452,commercial,90218111.31
+1051,bandra,mumbai,45,"hospital,mall",12.77574645395058,residential,51904473.65
+1535,bandra,mumbai,48,"hospital,mall",23.802453109453438,commercial,76419432.1
+2201,bandra,mumbai,33,"mall,metro",13.151453212465539,commercial,82305735.51
+730,bandra,mumbai,29,"hospital,mall",25.818494368971567,residential,28098235.17
+663,bandra,mumbai,36,"hospital,mall",17.47322702309468,residential,28819033.47
+2120,bandra,mumbai,16,"hospital,mall",19.309391976720708,commercial,91182435.17
+1623,bandra,mumbai,41,"mall,metro",19.646884326507514,commercial,80440022.3
+2185,bandra,mumbai,39,"park,school",25.06620861868751,commercial,97760299.62
+1076,bandra,mumbai,23,"school,hospital",32.20786587760305,residential,55014913.68
+743,bandra,mumbai,23,"hospital,mall",10.451870795402964,commercial,35344133.79
+1952,bandra,mumbai,44,"park,school",15.125016442216118,commercial,81773863.31
+1539,bandra,mumbai,41,"park,school",30.047327447363635,commercial,76236176.13
+479,bandra,mumbai,18,"park,school",11.726664971592445,residential,23702087.18
+564,bandra,mumbai,30,"mall,metro",30.176865388537944,residential,27960975.49
+1377,bandra,mumbai,22,"mall,metro",18.95101950305662,commercial,52700513.08
+1910,bandra,mumbai,22,"mall,metro",33.94162319102263,residential,74528590.75
+505,bandra,mumbai,39,"hospital,mall",33.24411795623929,residential,26623584.36
+711,bandra,mumbai,30,"school,hospital",25.915790074873165,commercial,33173668.43
+895,bandra,mumbai,17,"park,school",20.98235735931501,commercial,45047220.46
+682,bandra,mumbai,36,"school,hospital",30.48726880998732,commercial,30763174.65
+832,bandra,mumbai,38,"hospital,mall",26.21925931118231,commercial,36444446.46
+1121,bandra,mumbai,32,"hospital,mall",18.946213149035234,commercial,55162521.64
+1720,bandra,mumbai,20,"park,school",31.448935520083158,residential,88289039.43
+2303,bandra,mumbai,39,"park,school",5.860999933102687,commercial,106530547.17
+1144,bandra,mumbai,37,"park,school",15.21016529492851,commercial,51223628.21
+441,bandra,mumbai,27,"school,hospital",12.240681511180398,commercial,19976987.12
+2401,bandra,mumbai,30,"hospital,mall",24.37708699222857,commercial,110429605.51
+2235,bandra,mumbai,20,"park,school",11.647892014175905,residential,112359689.28
+1654,bandra,mumbai,38,"hospital,mall",21.60418865030749,commercial,79311417.76
+2142,bandra,mumbai,50,"park,school",15.55431582842505,commercial,115538122.72
+1509,bandra,mumbai,29,"school,hospital",26.63852993978209,commercial,62652493.69
+889,bandra,mumbai,26,"mall,metro",11.49153919635817,commercial,43891582.78
+1532,bandra,mumbai,48,"park,school",34.415318913875396,residential,75133155.99
+1613,bandra,mumbai,26,"park,school",5.424451017681915,residential,64672746.17
+1523,bandra,mumbai,18,"park,school",25.922521787305833,residential,56075767.43
+2410,bandra,mumbai,15,"park,school",19.081908347915306,commercial,91210252.12
+1795,bandra,mumbai,18,"park,school",33.231907903043094,commercial,70576790.19
+867,bandra,mumbai,40,"hospital,mall",7.222465107669194,residential,44041936.76
+1021,bandra,mumbai,34,"school,hospital",34.8175436813066,residential,39497953.21
+2104,bandra,mumbai,29,"hospital,mall",18.515433946662625,commercial,98706462.09
+1617,bandra,mumbai,42,"park,school",22.058884118726997,residential,83248010.98
+806,bandra,mumbai,28,"mall,metro",12.939383758700222,residential,42763638.63
+1043,bandra,mumbai,50,"school,hospital",9.695978463294143,commercial,42051228.85
+2245,bandra,mumbai,45,"park,school",5.979195661427728,commercial,108677487.6
+1558,bandra,mumbai,44,"school,hospital",25.621547602137284,commercial,75802583.08
+1210,bandra,mumbai,49,"mall,metro",24.42904170207442,commercial,52819526.68
+982,bandra,mumbai,25,"park,school",22.851321119582142,commercial,36614240.28
+2198,bandra,mumbai,34,"hospital,mall",33.28028722232122,commercial,84047928.13
+2193,bandra,mumbai,17,"hospital,mall",27.036017698568457,commercial,82123361.66
+505,bandra,mumbai,16,"park,school",22.287409538082404,residential,19010161.4
+2327,bandra,mumbai,43,"park,school",10.444674416693777,commercial,105509319.44
+2414,bandra,mumbai,45,"park,school",17.25044280290046,commercial,129011388.12
+828,bandra,mumbai,36,"hospital,mall",25.810210219502974,commercial,42591654.04
+2040,bandra,mumbai,50,"school,hospital",18.64477725805188,commercial,103314144.8
+1433,bandra,mumbai,40,"school,hospital",24.729811594493867,commercial,59926524.04
+2092,bandra,mumbai,48,"park,school",23.67901617805134,commercial,77353109.04
+2210,bandra,mumbai,28,"park,school",21.47658917255995,commercial,109792423.52
+2194,bandra,mumbai,46,"school,hospital",5.866083273249897,residential,113770394.61
+1048,bandra,mumbai,15,"hospital,mall",7.796276038445677,residential,43589990.61
+2290,bandra,mumbai,24,"hospital,mall",32.97959179802314,commercial,121477843.8
+2484,bandra,mumbai,41,"hospital,mall",34.407338978101265,residential,120964364.8
+2270,bandra,mumbai,39,"mall,metro",32.65604449794685,residential,104244691.04
+685,bandra,mumbai,41,"park,school",33.027451810475604,commercial,28066130.48
+410,bandra,mumbai,34,"hospital,mall",30.95781784100728,commercial,16847351.7
+2383,bandra,mumbai,50,"hospital,mall",18.660338505995032,commercial,100591746.35
+1172,bandra,mumbai,30,"hospital,mall",12.006873381736794,commercial,62882421.62
+578,bandra,mumbai,45,"hospital,mall",16.58236257472947,residential,24118306.51
+2428,bandra,mumbai,23,"park,school",31.09100940086646,commercial,129574687.25
+808,bandra,mumbai,44,"school,hospital",26.673314827119277,commercial,36737432.61
+1032,bandra,mumbai,31,"park,school",23.69778201565994,commercial,38542009.54
+728,bandra,mumbai,49,"hospital,mall",33.62418777868028,commercial,37369532.39
+547,bandra,mumbai,30,"park,school",34.92277768868646,residential,25771505.86
+2177,bandra,mumbai,21,"hospital,mall",9.990943601876754,commercial,116709142.22
+518,bandra,mumbai,18,"park,school",15.753900269010904,commercial,19076819.79
+996,bandra,mumbai,41,"mall,metro",10.099509472042921,residential,40233971.56
+1966,bandra,mumbai,30,"hospital,mall",32.384870480706645,residential,92706310.52
+1351,bandra,mumbai,31,"hospital,mall",12.65980124477462,residential,59850243.59
+2305,bandra,mumbai,49,"mall,metro",7.215857008486189,commercial,120371178.99
+1625,bandra,mumbai,42,"park,school",18.705074380033594,commercial,77188957.04
+1215,bandra,mumbai,45,"school,hospital",12.116171057827238,commercial,65596299.88
+1611,bandra,mumbai,33,"school,hospital",34.33833453730588,commercial,86782083.88
+1524,bandra,mumbai,18,"hospital,mall",29.98516699019565,commercial,55086143.4
+1342,bandra,mumbai,37,"mall,metro",24.098536340176757,commercial,62976262.1
+960,bandra,mumbai,17,"park,school",28.658314520304618,residential,45416127.23
+1894,bandra,mumbai,20,"park,school",14.801573771420312,commercial,93151609.21
+1119,bandra,mumbai,49,"park,school",20.92557121108355,commercial,44328408.75
+1073,bandra,mumbai,45,"park,school",27.396780521511353,commercial,43591120.21
+871,bandra,mumbai,19,"mall,metro",27.624544791840062,residential,38698499.51
+2027,bandra,mumbai,50,"park,school",7.709086267057499,commercial,108263804.0
+457,bandra,mumbai,22,"hospital,mall",16.05756975848117,commercial,18627436.27
+1960,bandra,mumbai,38,"school,hospital",25.24509666125966,commercial,99574882.39
+502,bandra,mumbai,50,"park,school",32.45767726229478,residential,23670225.49
+658,bandra,mumbai,44,"park,school",24.477183388537732,residential,31213724.06
+972,bandra,mumbai,17,"park,school",34.87782124265088,residential,35785387.81
+798,bandra,mumbai,49,"mall,metro",16.659374934504275,commercial,32100667.67
+2116,bandra,mumbai,24,"hospital,mall",24.64765692480392,commercial,98546619.08
+2071,bandra,mumbai,32,"school,hospital",25.70841991242691,residential,109562020.18
+2216,bandra,mumbai,30,"park,school",7.9806387381839095,commercial,97514028.45
+1869,bandra,mumbai,32,"mall,metro",34.0462062780916,commercial,69321026.1
+775,bandra,mumbai,16,"school,hospital",28.6038377136385,residential,37145623.9
+915,bandra,mumbai,28,"school,hospital",29.894535116513975,residential,45901529.31
+1284,bandra,mumbai,29,"park,school",28.2310573341446,residential,65015280.5
+1535,bandra,mumbai,24,"mall,metro",21.206463705894542,residential,78977761.27
+850,bandra,mumbai,16,"mall,metro",5.445809816921265,residential,40714181.93
+1726,bandra,mumbai,31,"school,hospital",8.802756311383408,commercial,62626286.7
+865,bandra,mumbai,45,"hospital,mall",28.34051117942608,residential,42750008.33
+2251,bandra,mumbai,17,"park,school",18.741275662930462,residential,101450536.03
+649,bandra,mumbai,40,"hospital,mall",25.58292488186698,commercial,35029490.47
+2216,bandra,mumbai,20,"park,school",23.2489227090032,residential,82707397.67
+916,bandra,mumbai,50,"park,school",16.427131964555624,commercial,37510463.8
+2258,bandra,mumbai,42,"school,hospital",28.792882793049383,residential,101835617.87
+1280,bandra,mumbai,29,"hospital,mall",15.167948565055255,commercial,55988811.46
+2033,bandra,mumbai,21,"park,school",17.80292018782874,commercial,88410725.26
+1933,bandra,mumbai,45,"school,hospital",7.7367436509814596,residential,102767298.06
+781,bandra,mumbai,38,"mall,metro",21.691122068460505,commercial,34187320.1
+900,bandra,mumbai,42,"school,hospital",34.05195875934423,commercial,39055099.85
+1840,bandra,mumbai,47,"mall,metro",9.641905275747842,commercial,69671250.74
+1318,bandra,mumbai,37,"park,school",8.446559405909245,commercial,67548748.5
+1326,bandra,mumbai,50,"school,hospital",23.26984746659196,commercial,67002759.69
+518,bandra,mumbai,34,"park,school",15.530702622109454,residential,20330199.45
+986,bandra,mumbai,40,"school,hospital",9.25623962453806,residential,45547066.79
+775,bandra,mumbai,28,"hospital,mall",17.594974812935092,commercial,38308259.08
+1044,bandra,mumbai,35,"school,hospital",31.5002655355503,residential,44538037.71
+1044,andheri,mumbai,18,"school,hospital",13.163085306386568,commercial,40258834.81
+2389,andheri,mumbai,41,"park,school",11.467068960132405,residential,87196264.14
+1813,andheri,mumbai,33,"hospital,mall",20.808023214444344,commercial,61676067.84
+586,andheri,mumbai,18,"school,hospital",11.132693730611953,residential,18217133.24
+962,andheri,mumbai,33,"park,school",8.599530311166474,commercial,37227718.94
+2163,andheri,mumbai,39,"mall,metro",20.007870396686393,commercial,65884389.99
+695,andheri,mumbai,17,"hospital,mall",5.562246097569371,residential,23323502.53
+1682,andheri,mumbai,40,"hospital,mall",13.685456167572745,commercial,60653976.72
+485,andheri,mumbai,25,"hospital,mall",29.960777392151215,commercial,20140495.9
+760,andheri,mumbai,21,"mall,metro",18.070295808212002,commercial,25926613.33
+722,andheri,mumbai,34,"park,school",11.64716176682754,residential,24216409.77
+712,andheri,mumbai,22,"mall,metro",32.17768194740151,commercial,25024497.38
+1838,andheri,mumbai,24,"mall,metro",8.084135833332885,commercial,70180919.15
+1208,andheri,mumbai,24,"school,hospital",10.314383868416874,commercial,36758215.47
+2300,andheri,mumbai,43,"park,school",30.927406244942485,commercial,88693155.57
+1018,andheri,mumbai,45,"hospital,mall",23.94155360076288,commercial,34771499.66
+630,andheri,mumbai,19,"park,school",18.852274593393624,residential,20744130.4
+633,andheri,mumbai,33,"school,hospital",24.339994087275123,residential,20991752.61
+2476,andheri,mumbai,50,"school,hospital",18.492011109527187,residential,82655700.57
+1716,andheri,mumbai,47,"mall,metro",33.73167076599755,commercial,62582660.16
+823,andheri,mumbai,36,"school,hospital",20.136470045028723,residential,32387959.6
+560,andheri,mumbai,43,"hospital,mall",20.722056595105236,residential,17622310.79
+1890,andheri,mumbai,33,"hospital,mall",17.26308191741961,commercial,62785663.45
+614,andheri,mumbai,36,"school,hospital",14.890722653531865,commercial,23976194.7
+1563,andheri,mumbai,24,"park,school",7.445059623436519,residential,49278171.77
+1832,andheri,mumbai,40,"mall,metro",22.851236844547245,residential,59252823.6
+1668,andheri,mumbai,36,"mall,metro",25.103491999841676,residential,59755948.18
+2134,andheri,mumbai,16,"park,school",14.265982101916427,residential,74943602.02
+1799,andheri,mumbai,46,"mall,metro",11.796291396016617,residential,74239972.99
+1034,andheri,mumbai,21,"school,hospital",24.85787712114253,residential,30069041.76
+1943,andheri,mumbai,26,"mall,metro",26.635489934162813,residential,58599983.61
+2082,andheri,mumbai,30,"hospital,mall",23.317862663774473,commercial,68914599.32
+1358,andheri,mumbai,34,"hospital,mall",32.11923014412375,residential,48176619.98
+1906,andheri,mumbai,43,"hospital,mall",28.08315655926728,commercial,71467939.32
+2459,andheri,mumbai,25,"mall,metro",29.03777672454643,residential,87010330.68
+1424,andheri,mumbai,45,"park,school",21.636222362732937,residential,40912256.56
+910,andheri,mumbai,25,"park,school",18.479576611214775,residential,29111702.8
+2191,andheri,mumbai,29,"hospital,mall",31.538893211540223,residential,64161222.04
+2099,andheri,mumbai,47,"park,school",12.07334221590298,residential,60337006.89
+1935,andheri,mumbai,35,"school,hospital",30.17528862834817,commercial,60262754.97
+998,andheri,mumbai,33,"hospital,mall",25.88215965727951,residential,29866541.44
+2321,andheri,mumbai,15,"school,hospital",5.570116547329111,residential,79564856.3
+1012,andheri,mumbai,48,"hospital,mall",8.335605809727152,commercial,36111458.55
+1373,andheri,mumbai,18,"mall,metro",17.59476631260329,commercial,44232728.26
+657,andheri,mumbai,46,"school,hospital",23.958648260394273,residential,19415670.92
+988,andheri,mumbai,15,"park,school",12.216927164196306,commercial,31692874.13
+1167,andheri,mumbai,20,"park,school",7.030379687265381,residential,43530498.33
+1999,andheri,mumbai,17,"hospital,mall",34.43118267654681,commercial,80413053.64
+466,andheri,mumbai,19,"park,school",12.233777731569338,residential,15377680.45
+1761,andheri,mumbai,37,"park,school",29.405265966682645,residential,52597080.03
+2303,andheri,mumbai,45,"mall,metro",29.34493045542819,residential,96107572.19
+2274,andheri,mumbai,27,"school,hospital",28.733276396871318,residential,64849415.94
+1692,andheri,mumbai,47,"hospital,mall",34.6736810688837,commercial,69485691.77
+1437,andheri,mumbai,27,"park,school",15.709225281060903,residential,40972736.68
+1759,andheri,mumbai,38,"hospital,mall",31.684595510368442,commercial,55980232.14
+1983,andheri,mumbai,26,"hospital,mall",25.762054733378452,commercial,64936334.88
+1492,andheri,mumbai,42,"school,hospital",17.918214560103408,residential,58510381.25
+1603,andheri,mumbai,20,"park,school",24.8275766437441,commercial,52092626.87
+2226,andheri,mumbai,42,"mall,metro",25.692944253364587,commercial,81108100.41
+2231,andheri,mumbai,37,"hospital,mall",13.236660802245728,residential,63790921.16
+707,andheri,mumbai,40,"park,school",20.392580583936564,residential,26439378.13
+527,andheri,mumbai,43,"school,hospital",8.786900729067629,residential,15809426.92
+1900,andheri,mumbai,17,"mall,metro",25.371861707401848,commercial,62833205.5
+1923,andheri,mumbai,19,"mall,metro",20.883796446088688,commercial,65795733.54
+1687,andheri,mumbai,30,"school,hospital",5.777400225924296,residential,62577325.48
+2444,andheri,mumbai,50,"school,hospital",12.853300297624875,commercial,86147172.3
+2227,andheri,mumbai,33,"hospital,mall",11.005350229733606,residential,69045876.72
+703,andheri,mumbai,43,"school,hospital",29.315396550728956,commercial,24133004.11
+1823,andheri,mumbai,50,"park,school",31.73995047061667,residential,69152892.3
+1113,andheri,mumbai,47,"mall,metro",8.640873652353706,residential,43531377.05
+968,andheri,mumbai,46,"school,hospital",15.826895733331463,commercial,30312248.77
+2314,andheri,mumbai,50,"mall,metro",23.358450878615628,residential,90827425.28
+669,andheri,mumbai,45,"hospital,mall",28.07493651124094,residential,21628816.86
+913,andheri,mumbai,19,"hospital,mall",18.974995988631765,commercial,37992957.73
+925,andheri,mumbai,50,"mall,metro",28.0334491207297,residential,37269583.96
+2172,andheri,mumbai,18,"school,hospital",20.543063987720487,commercial,76107082.02
+1074,andheri,mumbai,29,"park,school",33.42449410428942,commercial,32507335.2
+723,andheri,mumbai,50,"park,school",8.75510885380708,commercial,22780626.94
+782,andheri,mumbai,25,"mall,metro",10.136018691673769,commercial,27398170.79
+568,andheri,mumbai,16,"school,hospital",6.363854098740259,commercial,22466278.8
+1263,andheri,mumbai,41,"school,hospital",19.941141804083482,commercial,48925369.05
+1637,andheri,mumbai,40,"park,school",18.606323988655138,residential,56904129.34
+1047,andheri,mumbai,45,"hospital,mall",11.12069040690196,residential,35759737.42
+1680,andheri,mumbai,35,"park,school",34.26122383744641,residential,67302129.01
+1917,andheri,mumbai,21,"park,school",12.252135828094012,residential,67497036.84
+1495,andheri,mumbai,24,"school,hospital",6.5181587540087085,commercial,51270044.53
+2112,andheri,mumbai,25,"park,school",33.01254605748214,commercial,66476855.65
+1177,andheri,mumbai,46,"hospital,mall",19.962791251929623,commercial,45530714.02
+2437,andheri,mumbai,40,"hospital,mall",34.00059891657426,residential,69026728.94
+1845,andheri,mumbai,33,"hospital,mall",22.925563130305587,commercial,52916839.57
+1570,andheri,mumbai,21,"hospital,mall",9.01804831976944,commercial,55756462.67
+1898,andheri,mumbai,38,"school,hospital",17.017448630442697,residential,73441201.94
+1884,andheri,mumbai,19,"hospital,mall",20.12766587369614,commercial,67343807.91
+886,andheri,mumbai,21,"hospital,mall",16.1959500897446,commercial,26403940.7
+1897,andheri,mumbai,27,"hospital,mall",20.002337107119317,residential,73166365.05
+559,andheri,mumbai,36,"hospital,mall",20.579981309992498,residential,16724446.66
+972,andheri,mumbai,35,"mall,metro",16.78863763599449,commercial,31678959.25
+1777,andheri,mumbai,47,"hospital,mall",26.262194193063138,commercial,62376982.23
+2345,andheri,mumbai,38,"park,school",25.214191774190496,commercial,92441034.2
+1660,andheri,mumbai,16,"hospital,mall",12.96591310957164,residential,64996581.88
+610,andheri,mumbai,25,"hospital,mall",9.433271249009955,residential,22063288.79
+529,andheri,mumbai,22,"mall,metro",5.568121025198377,commercial,19052455.43
+2115,andheri,mumbai,28,"hospital,mall",20.054585138329628,commercial,63703879.55
+655,andheri,mumbai,48,"mall,metro",21.82660318725918,commercial,24811958.88
+1943,andheri,mumbai,26,"hospital,mall",32.36372482772031,commercial,62938698.19
+1851,andheri,mumbai,31,"hospital,mall",10.767925074101402,residential,69342458.29
+1542,andheri,mumbai,29,"park,school",28.135228072629303,residential,55223974.62
+2402,andheri,mumbai,37,"park,school",13.633681264938584,commercial,77917446.17
+2016,andheri,mumbai,24,"park,school",6.261994604981766,residential,79545885.43
+1818,andheri,mumbai,31,"hospital,mall",11.419604242310227,commercial,74421893.15
+1512,andheri,mumbai,30,"mall,metro",6.522962898723921,residential,45241793.91
+1353,andheri,mumbai,41,"park,school",26.520741687507307,residential,38878286.55
+963,andheri,mumbai,50,"mall,metro",17.207223546406503,commercial,27033856.26
+2355,andheri,mumbai,33,"park,school",13.562460239059757,residential,87388260.67
+766,andheri,mumbai,29,"school,hospital",32.39689177009558,residential,28443251.59
+2111,andheri,mumbai,26,"school,hospital",34.9151540926553,commercial,85181867.94
+2429,andheri,mumbai,33,"school,hospital",5.278015054402994,residential,74347713.36
+1772,andheri,mumbai,49,"hospital,mall",31.677798913097494,residential,56675405.47
+2465,andheri,mumbai,27,"school,hospital",14.920522904953566,commercial,85171396.74
+1453,andheri,mumbai,15,"park,school",28.723029932757672,residential,55301724.04
+1118,andheri,mumbai,40,"hospital,mall",20.458419768793878,residential,40866659.83
+2041,andheri,mumbai,26,"mall,metro",19.323622954696788,residential,76271316.76
+427,andheri,mumbai,30,"hospital,mall",27.61269955344371,commercial,13514974.39
+1636,andheri,mumbai,15,"park,school",24.61050101210596,residential,59148681.05
+654,andheri,mumbai,44,"park,school",9.791504756826894,commercial,24426249.67
+880,andheri,mumbai,33,"park,school",23.43876344431547,residential,32508923.53
+947,andheri,mumbai,44,"park,school",17.47536846293674,commercial,32855735.63
+1294,andheri,mumbai,20,"hospital,mall",20.845193722195802,commercial,50033848.88
+719,andheri,mumbai,22,"school,hospital",29.863221618752757,residential,29364985.22
+1013,andheri,mumbai,48,"hospital,mall",8.487200665539927,residential,30697465.95
+2402,andheri,mumbai,47,"hospital,mall",29.260762495317117,commercial,70314185.62
+940,andheri,mumbai,44,"school,hospital",21.76391596996299,commercial,33074341.62
+489,andheri,mumbai,15,"mall,metro",22.349337951771062,residential,16402664.87
+2135,andheri,mumbai,19,"school,hospital",33.03748396654839,residential,70077967.82
+2333,andheri,mumbai,41,"mall,metro",28.06916187750448,commercial,66360524.36
+1933,andheri,mumbai,39,"hospital,mall",31.088608559321255,commercial,80992685.27
+1938,andheri,mumbai,49,"mall,metro",24.606022952561062,commercial,56441342.8
+885,andheri,mumbai,49,"hospital,mall",20.86527618632028,residential,26991288.26
+414,andheri,mumbai,34,"hospital,mall",25.20499573329701,commercial,15974815.89
+1953,andheri,mumbai,30,"hospital,mall",15.384792049628803,commercial,77196321.08
+1172,andheri,mumbai,22,"school,hospital",29.284345506175832,commercial,48197029.21
+464,andheri,mumbai,19,"school,hospital",22.81832442438072,commercial,14555368.25
+599,andheri,mumbai,17,"hospital,mall",18.16888434462382,residential,18824340.59
+631,andheri,mumbai,33,"mall,metro",29.473587702899504,commercial,18905957.67
+1713,andheri,mumbai,24,"mall,metro",17.40680619340411,commercial,53645432.56
+649,andheri,mumbai,26,"hospital,mall",21.675519979511378,residential,23230340.82
+1810,andheri,mumbai,39,"park,school",25.889252219272695,commercial,74539799.63
+1011,andheri,mumbai,26,"hospital,mall",12.229045670332223,residential,32552621.75
+1631,andheri,mumbai,24,"hospital,mall",32.442235214477165,commercial,65249096.64
+2106,andheri,mumbai,23,"hospital,mall",12.285755482687573,residential,75399042.78
+1752,andheri,mumbai,43,"park,school",7.77391989580591,residential,64918401.13
+611,andheri,mumbai,17,"school,hospital",10.64489881798266,residential,19404420.42
+2363,andheri,mumbai,36,"park,school",33.7105928158002,residential,73074468.83
+1267,andheri,mumbai,22,"hospital,mall",32.43323890326764,residential,52099339.88
+2024,andheri,mumbai,50,"park,school",28.26541646191311,commercial,82603023.36
+2309,andheri,mumbai,37,"park,school",12.846848821560577,commercial,81902774.02
+2308,andheri,mumbai,45,"park,school",32.42991496692467,commercial,67810229.18
+1681,andheri,mumbai,29,"mall,metro",5.486597030037814,commercial,56809432.63
+1609,andheri,mumbai,36,"mall,metro",16.395193242234626,residential,48485219.43
+2445,andheri,mumbai,36,"park,school",27.900818769989595,commercial,87308493.89
+2409,andheri,mumbai,37,"mall,metro",9.198755857418519,commercial,82993918.8
+1153,andheri,mumbai,49,"school,hospital",20.718332462122383,residential,47084589.95
+598,andheri,mumbai,41,"mall,metro",30.276341504760456,residential,23143044.8
+678,andheri,mumbai,15,"mall,metro",20.171987590791954,commercial,25696453.5
+647,andheri,mumbai,45,"hospital,mall",5.471953006076592,commercial,23712351.57
+448,andheri,mumbai,32,"park,school",5.514277928072816,commercial,12648906.4
+1134,andheri,mumbai,21,"mall,metro",12.229064969405245,commercial,33450992.82
+1851,andheri,mumbai,40,"school,hospital",16.191547503910463,commercial,58755453.23
+2280,andheri,mumbai,29,"park,school",25.521248764111565,residential,81874869.66
+529,andheri,mumbai,39,"hospital,mall",21.58104318589086,residential,15504464.74
+438,andheri,mumbai,20,"hospital,mall",30.359893836209842,commercial,16573846.46
+790,andheri,mumbai,17,"mall,metro",11.342511676536414,commercial,32016390.81
+1510,andheri,mumbai,19,"park,school",31.97934952595026,residential,43264320.06
+1134,andheri,mumbai,35,"school,hospital",33.84407569628017,residential,46497094.75
+2031,andheri,mumbai,34,"mall,metro",21.91874598871295,commercial,83279630.05
+1758,andheri,mumbai,23,"school,hospital",20.023785549131752,commercial,58671223.02
+619,andheri,mumbai,29,"school,hospital",15.21778239425318,commercial,18178545.03
+1736,andheri,mumbai,32,"hospital,mall",19.718103683323797,commercial,49328022.02
+1937,andheri,mumbai,39,"school,hospital",28.165022124040696,commercial,65946852.61
+1409,andheri,mumbai,20,"park,school",9.626628915965552,residential,53518778.92
+1995,andheri,mumbai,21,"school,hospital",5.155856671100904,commercial,64704822.93
+2221,andheri,mumbai,32,"school,hospital",8.975210134825982,residential,73379274.66
+2165,andheri,mumbai,50,"hospital,mall",8.09878782024873,residential,74224451.85
+1849,andheri,mumbai,35,"hospital,mall",5.370218446518633,commercial,66118533.88
+1988,andheri,mumbai,50,"mall,metro",22.158812922486185,residential,77349834.55
+1959,andheri,mumbai,32,"park,school",13.052203914476321,residential,59500754.87
+659,andheri,mumbai,32,"hospital,mall",13.992567617646896,residential,19994655.48
+1879,andheri,mumbai,30,"hospital,mall",22.81419194117236,residential,59233213.3
+2275,andheri,mumbai,34,"school,hospital",33.46470387183696,commercial,67107069.91
+1956,andheri,mumbai,36,"hospital,mall",15.04208671240871,residential,76786829.83
+1630,andheri,mumbai,27,"hospital,mall",14.425498435863242,commercial,52957578.85
+1707,andheri,mumbai,46,"mall,metro",14.776587123287165,commercial,54761027.93
+2009,andheri,mumbai,27,"mall,metro",25.45137899390263,residential,66518427.0
+2290,andheri,mumbai,28,"hospital,mall",28.930565630942105,residential,94351775.79
+2075,andheri,mumbai,23,"park,school",12.260635030123964,residential,77650000.8
+2133,andheri,mumbai,19,"hospital,mall",34.72101843310904,commercial,83287410.3
+2041,andheri,mumbai,41,"school,hospital",28.721627511477774,commercial,72417014.12
+748,andheri,mumbai,30,"park,school",9.990154798403346,residential,22089316.62
+2036,andheri,mumbai,36,"hospital,mall",8.178336548182616,residential,84565984.55
+1459,andheri,mumbai,48,"mall,metro",18.373356545147203,commercial,45386594.05
+2296,powai,mumbai,47,"mall,metro",15.349021627985548,residential,101844764.25
+2377,powai,mumbai,41,"school,hospital",8.482080138769241,residential,80040221.18
+1826,powai,mumbai,44,"mall,metro",20.633444894014147,commercial,67544188.29
+2350,powai,mumbai,43,"park,school",7.015230201243775,residential,78870625.97
+871,powai,mumbai,36,"school,hospital",25.314179986726522,residential,28186746.17
+1399,powai,mumbai,50,"mall,metro",14.929689666595076,commercial,56318007.5
+2292,powai,mumbai,40,"mall,metro",10.59160775850986,commercial,81846606.63
+2020,powai,mumbai,27,"hospital,mall",22.76609475081105,commercial,65583494.31
+418,powai,mumbai,28,"park,school",27.56976486081475,residential,18089271.8
+816,powai,mumbai,49,"mall,metro",15.973790882375443,residential,36550302.77
+2274,powai,mumbai,46,"park,school",22.909124878489806,commercial,76914137.65
+867,powai,mumbai,44,"mall,metro",29.412147627828016,commercial,32570410.57
+747,powai,mumbai,35,"school,hospital",12.157181793163717,residential,31937059.7
+1149,powai,mumbai,24,"hospital,mall",17.54717318633776,residential,43630858.81
+1971,powai,mumbai,46,"mall,metro",21.64737727497492,commercial,76412951.03
+1583,powai,mumbai,35,"hospital,mall",23.582299363675247,commercial,54209430.64
+439,powai,mumbai,27,"hospital,mall",33.91487268244819,commercial,17451893.05
+2075,powai,mumbai,41,"hospital,mall",19.66098535819057,residential,89131929.46
+526,powai,mumbai,29,"park,school",5.980852605742123,residential,23530133.57
+1582,powai,mumbai,44,"hospital,mall",21.49178553614154,residential,54881705.64
+867,powai,mumbai,49,"park,school",21.261301373528894,residential,31460154.95
+2207,powai,mumbai,42,"school,hospital",27.07966092901022,residential,89916826.84
+1619,powai,mumbai,17,"hospital,mall",12.884456742236829,residential,74469074.26
+2198,powai,mumbai,22,"mall,metro",11.296345027693222,commercial,100766535.26
+2153,powai,mumbai,23,"mall,metro",29.40589596486301,residential,74613734.77
+1836,powai,mumbai,49,"mall,metro",14.70960847564045,commercial,74388280.7
+1585,powai,mumbai,47,"school,hospital",9.067667192840274,commercial,65244574.3
+642,powai,mumbai,23,"mall,metro",12.490317258144193,commercial,30738818.51
+1413,powai,mumbai,40,"hospital,mall",9.265148992261036,commercial,62431394.87
+2096,powai,mumbai,19,"school,hospital",17.085523199054627,commercial,79653779.19
+1911,powai,mumbai,46,"park,school",22.458666340069414,residential,75054774.17
+2277,powai,mumbai,37,"school,hospital",28.870337799435358,commercial,95992510.75
+1292,powai,mumbai,28,"hospital,mall",13.056105149432677,commercial,61357154.01
+1783,powai,mumbai,23,"hospital,mall",28.649109604300474,residential,72669674.96
+588,powai,mumbai,44,"school,hospital",8.727115376911954,residential,19752799.17
+2207,powai,mumbai,42,"mall,metro",34.870822062028616,residential,86744568.42
+1636,powai,mumbai,32,"school,hospital",24.63763893256382,commercial,56513394.07
+737,powai,mumbai,25,"school,hospital",16.890247007966998,commercial,27968781.71
+1359,powai,mumbai,20,"school,hospital",5.032589110751711,commercial,52821197.58
+719,powai,mumbai,29,"hospital,mall",5.278608428253805,commercial,24534578.41
+893,powai,mumbai,42,"mall,metro",19.33100724313296,residential,42694757.35
+1969,powai,mumbai,21,"school,hospital",14.400544323227185,commercial,65822286.38
+961,powai,mumbai,23,"mall,metro",7.05234822567737,residential,36636718.86
+1072,powai,mumbai,28,"mall,metro",32.59682373964263,commercial,41852585.27
+1289,powai,mumbai,21,"mall,metro",27.573369396438572,commercial,43035854.0
+1839,powai,mumbai,35,"mall,metro",12.433591248907367,residential,87190630.06
+1416,powai,mumbai,33,"school,hospital",30.43676313319877,commercial,57849754.09
+1241,powai,mumbai,47,"mall,metro",27.435309229437486,commercial,49992426.68
+623,powai,mumbai,30,"hospital,mall",16.576567242907807,residential,27748934.34
+2446,powai,mumbai,19,"school,hospital",34.60647598529567,commercial,103243990.06
+940,powai,mumbai,41,"park,school",21.390686634840527,residential,35898047.26
+2329,powai,mumbai,19,"school,hospital",22.620904907777735,residential,110094735.99
+1473,powai,mumbai,18,"hospital,mall",20.19831812824781,commercial,52220629.57
+2134,powai,mumbai,20,"mall,metro",13.324032072036802,commercial,92250622.45
+723,powai,mumbai,28,"mall,metro",21.09170518668375,commercial,29050772.75
+670,powai,mumbai,42,"mall,metro",6.737178320693912,residential,24765016.97
+2179,powai,mumbai,18,"park,school",24.982387365779317,residential,73771756.18
+889,powai,mumbai,23,"school,hospital",9.914978928062226,commercial,28628146.56
+1461,powai,mumbai,23,"park,school",26.988075126651246,residential,50654926.02
+520,powai,mumbai,42,"park,school",20.71562634346008,commercial,19427291.74
+715,powai,mumbai,47,"park,school",6.6631733252726475,residential,28555928.19
+1906,powai,mumbai,21,"school,hospital",11.852132694597532,residential,65789325.18
+580,powai,mumbai,15,"mall,metro",6.379445896692108,commercial,26528634.0
+1968,powai,mumbai,26,"school,hospital",21.585943654875937,commercial,91952093.46
+1319,powai,mumbai,41,"park,school",13.1377387402945,residential,48999309.71
+1927,powai,mumbai,18,"mall,metro",11.695551828519555,residential,65345369.46
+2042,powai,mumbai,44,"park,school",28.205824385176562,commercial,67595964.57
+1740,powai,mumbai,44,"school,hospital",16.067580774576474,commercial,58084972.94
+1644,powai,mumbai,30,"hospital,mall",16.04820883088356,commercial,72061806.76
+1200,powai,mumbai,49,"mall,metro",9.51699130379659,commercial,52463296.07
+497,powai,mumbai,37,"school,hospital",33.5297078643033,residential,17756798.04
+1941,powai,mumbai,34,"school,hospital",11.155831187176961,residential,88478729.96
+2119,powai,mumbai,18,"mall,metro",26.349574241003083,residential,84489747.04
+579,powai,mumbai,48,"hospital,mall",26.025407290960388,commercial,27062686.07
+2277,powai,mumbai,20,"school,hospital",20.162832915823273,commercial,108368980.12
+706,powai,mumbai,18,"hospital,mall",24.87331784461847,residential,29278054.54
+1369,powai,mumbai,35,"hospital,mall",26.021768189646263,commercial,50196871.63
+1702,powai,mumbai,29,"school,hospital",33.30664058090284,residential,66793501.83
+846,powai,mumbai,25,"hospital,mall",18.981653373099853,commercial,29175637.22
+894,powai,mumbai,28,"hospital,mall",14.249231546375137,commercial,36273864.75
+891,powai,mumbai,34,"school,hospital",11.450623684210646,commercial,29801040.18
+1007,powai,mumbai,30,"park,school",16.887333880393133,residential,33693622.31
+1624,powai,mumbai,26,"school,hospital",33.56289820471232,commercial,58728173.94
+1423,powai,mumbai,21,"mall,metro",8.643597665121462,residential,47692705.11
+1310,powai,mumbai,40,"park,school",25.588557861066803,residential,44659791.38
+1460,powai,mumbai,19,"school,hospital",34.91484278391422,residential,68151131.66
+2216,powai,mumbai,20,"park,school",8.675829777724218,commercial,99606493.48
+607,powai,mumbai,42,"hospital,mall",19.88379173639766,commercial,21055511.2
+2147,powai,mumbai,28,"mall,metro",13.249453070727263,commercial,74640273.34
+1008,powai,mumbai,30,"park,school",19.966748299894974,commercial,32814826.23
+649,powai,mumbai,39,"mall,metro",17.577044635889933,residential,21678900.59
+479,powai,mumbai,37,"hospital,mall",21.33553418102155,commercial,22910789.31
+1809,powai,mumbai,47,"park,school",16.651438237079013,residential,84304523.57
+506,powai,mumbai,29,"school,hospital",31.87294344842941,commercial,18773632.79
+639,powai,mumbai,45,"park,school",28.005265053508186,residential,28715677.31
+1053,powai,mumbai,30,"park,school",21.010686937634308,residential,35383063.31
+1298,powai,mumbai,39,"park,school",33.056180962746346,residential,53491973.71
+1121,powai,mumbai,35,"park,school",32.41940012385603,residential,40114781.12
+1840,powai,mumbai,24,"mall,metro",30.10090522200008,commercial,86776129.16
+1665,powai,mumbai,17,"school,hospital",6.685039304038142,residential,57956832.29
+481,powai,mumbai,15,"park,school",32.536885577619394,residential,19443547.76
+934,powai,mumbai,26,"park,school",6.786678885351022,residential,34980303.16
+980,powai,mumbai,48,"park,school",33.81676250827273,commercial,43502066.7
+2020,powai,mumbai,36,"park,school",14.678096131187303,residential,83580058.55
+2189,powai,mumbai,46,"park,school",10.22608012866592,commercial,97781492.6
+1314,powai,mumbai,26,"hospital,mall",14.20469687893874,commercial,56040137.82
+921,powai,mumbai,15,"hospital,mall",30.52270896605025,residential,32090709.34
+1145,powai,mumbai,29,"school,hospital",33.10063380662763,residential,47675760.39
+1756,powai,mumbai,30,"park,school",34.4713896482107,residential,77133166.15
+763,powai,mumbai,36,"hospital,mall",5.3418686088649405,residential,34446847.32
+1422,powai,mumbai,37,"park,school",28.61060018271981,residential,61275142.09
+597,powai,mumbai,41,"mall,metro",31.536559927616825,commercial,22790471.16
+1951,powai,mumbai,39,"school,hospital",29.86420932698754,residential,73396032.18
+1066,powai,mumbai,17,"park,school",5.6023399499171,commercial,41809158.22
+828,powai,mumbai,25,"hospital,mall",9.827134847339632,residential,27479006.92
+781,powai,mumbai,45,"school,hospital",17.939700024375824,residential,29215030.5
+2178,powai,mumbai,21,"park,school",11.166514301538115,residential,75170752.43
+2076,powai,mumbai,49,"park,school",24.817936781389207,commercial,89590085.71
+1372,powai,mumbai,40,"hospital,mall",9.607698035502025,commercial,46009546.31
+415,powai,mumbai,33,"hospital,mall",10.99024402282839,residential,16119303.56
+1247,powai,mumbai,33,"school,hospital",19.207119534262063,residential,43312443.89
+1663,powai,mumbai,45,"hospital,mall",31.846324502164137,commercial,74099995.86
+773,powai,mumbai,39,"mall,metro",16.13061574522242,commercial,32674603.42
+1913,powai,mumbai,17,"park,school",18.192212685583073,commercial,66926930.66
+1326,powai,mumbai,18,"mall,metro",27.567054263458612,residential,60191462.81
+751,powai,mumbai,49,"hospital,mall",34.121166115207274,residential,32060384.35
+649,powai,mumbai,48,"hospital,mall",33.96883112240904,commercial,29498837.78
+1365,powai,mumbai,20,"hospital,mall",32.08331604017462,residential,54081568.22
+2456,powai,mumbai,48,"mall,metro",8.608456242663,commercial,101038658.58
+1108,powai,mumbai,25,"mall,metro",29.25382163958089,residential,52280961.97
+574,powai,mumbai,42,"mall,metro",34.91807680336326,residential,22256275.08
+1456,powai,mumbai,19,"school,hospital",16.64297459044252,commercial,54040884.09
+1735,powai,mumbai,48,"hospital,mall",32.51485732349744,residential,79299887.25
+2118,powai,mumbai,24,"mall,metro",21.997817811653196,residential,71589038.54
+832,powai,mumbai,21,"park,school",31.02425803295526,commercial,34114446.21
+2083,powai,mumbai,46,"hospital,mall",6.123970114931403,commercial,75459145.61
+2050,powai,mumbai,40,"school,hospital",16.873782326930957,commercial,70318367.6
+1373,powai,mumbai,45,"park,school",31.910940864482676,residential,45018824.15
+1783,powai,mumbai,34,"park,school",13.410399595539248,commercial,80374385.68
+802,powai,mumbai,29,"mall,metro",14.0144134255244,commercial,38143076.92
+1714,powai,mumbai,41,"school,hospital",10.638070726778341,residential,62236573.56
+2067,powai,mumbai,48,"park,school",29.63052177195381,residential,90648526.39
+668,powai,mumbai,47,"hospital,mall",9.069494630511794,residential,24701283.62
+1111,powai,mumbai,27,"school,hospital",12.48470783972838,commercial,38978563.03
+607,powai,mumbai,27,"park,school",16.050557827243125,commercial,28339917.75
+2468,powai,mumbai,22,"school,hospital",12.258142837688347,commercial,94650456.65
+2227,powai,mumbai,45,"park,school",15.327470115612506,commercial,77591662.19
+770,powai,mumbai,39,"school,hospital",9.887222167958615,residential,28152054.72
+1306,powai,mumbai,28,"park,school",24.547619985678907,residential,55319650.22
+436,powai,mumbai,23,"mall,metro",23.034258514836015,residential,17259302.11
+1316,powai,mumbai,34,"park,school",17.71420401978857,commercial,47426333.13
+1828,powai,mumbai,28,"hospital,mall",14.064352738230559,commercial,71920774.06
+819,powai,mumbai,38,"park,school",13.954277787598922,residential,26304282.59
+2373,powai,mumbai,32,"park,school",30.844748007554916,commercial,78359765.26
+1623,powai,mumbai,48,"mall,metro",31.990611342364847,commercial,56827334.59
+1709,powai,mumbai,16,"hospital,mall",34.92407298734888,commercial,73302585.24
+2114,powai,mumbai,17,"mall,metro",15.295011489067196,residential,81333153.01
+2348,powai,mumbai,37,"park,school",30.362577327337856,residential,109192387.76
+1603,powai,mumbai,23,"park,school",26.755599113183585,residential,53799323.38
+1774,powai,mumbai,29,"park,school",11.69983776156826,commercial,75343472.95
+2122,powai,mumbai,36,"park,school",12.816777062171107,commercial,94661246.51
+2299,powai,mumbai,45,"school,hospital",30.99180109077619,residential,104879051.66
+2334,powai,mumbai,47,"school,hospital",31.0249326409469,commercial,107902726.84
+1622,powai,mumbai,24,"mall,metro",34.77043558663799,commercial,62624959.46
+2076,powai,mumbai,44,"mall,metro",14.491503729461266,residential,99222556.16
+731,powai,mumbai,26,"park,school",24.03496907458013,residential,29094745.57
+2251,powai,mumbai,25,"mall,metro",19.687312718900493,residential,81883379.49
+930,powai,mumbai,42,"hospital,mall",17.870763458012306,commercial,38903458.51
+1970,powai,mumbai,49,"mall,metro",26.919772112317695,residential,63187171.22
+1719,powai,mumbai,48,"mall,metro",5.5374837689283805,residential,75824340.19
+1419,powai,mumbai,37,"park,school",8.867924012849082,commercial,50545136.71
+2461,powai,mumbai,25,"school,hospital",29.71531489023231,commercial,101931497.02
+1591,powai,mumbai,48,"park,school",18.009956901067653,residential,62518060.2
+1803,powai,mumbai,46,"park,school",27.503467467820503,residential,86432615.41
+2052,powai,mumbai,29,"mall,metro",11.33570687489434,residential,66291903.24
+2466,powai,mumbai,38,"school,hospital",16.255772980275182,commercial,85579461.98
+599,powai,mumbai,18,"school,hospital",24.607028552022577,residential,24860168.27
+597,powai,mumbai,41,"hospital,mall",16.40761288782844,commercial,25692489.6
+2343,powai,mumbai,28,"school,hospital",14.033493642703768,residential,101287635.64
+1505,powai,mumbai,23,"hospital,mall",29.91958161412669,residential,63156970.47
+2495,powai,mumbai,22,"park,school",8.420376580527439,residential,108533147.68
+2438,powai,mumbai,27,"park,school",29.944964615213742,residential,85764808.98
+1866,powai,mumbai,33,"mall,metro",6.18217122885706,commercial,80713807.62
+1250,powai,mumbai,45,"park,school",12.035157979146689,residential,53764078.31
+764,powai,mumbai,46,"mall,metro",33.483380471933486,residential,35533701.66
+814,powai,mumbai,29,"hospital,mall",34.659977922728125,commercial,37831846.7
+1481,powai,mumbai,21,"mall,metro",31.224213474864776,commercial,58393516.26
+1875,powai,mumbai,35,"hospital,mall",27.156205873765288,residential,84047883.08
+587,powai,mumbai,23,"mall,metro",14.859824782057268,commercial,18874842.5
+1498,powai,mumbai,20,"park,school",29.44892868609489,residential,68991301.68
+866,powai,mumbai,44,"park,school",30.07125036099154,commercial,33265173.24
+2127,powai,mumbai,25,"school,hospital",8.975347287096799,residential,90145543.54
+1052,powai,mumbai,45,"hospital,mall",10.437816816119064,commercial,35409699.0
+1868,powai,mumbai,23,"hospital,mall",32.61193956914308,residential,78048280.44
+2084,powai,mumbai,19,"park,school",24.649207066201704,residential,81382296.68
+1317,powai,mumbai,36,"school,hospital",17.985437213267367,residential,62750215.19
+2373,powai,mumbai,39,"mall,metro",30.17099063689362,residential,89063416.54
+447,powai,mumbai,25,"hospital,mall",30.556134543381987,residential,18905587.62
+706,powai,mumbai,35,"mall,metro",14.926845275643107,commercial,31080153.29
+606,powai,mumbai,50,"hospital,mall",17.098309803851684,residential,24307186.8
+722,thane,mumbai,43,"school,hospital",30.697676725340514,commercial,12783357.34
+1694,thane,mumbai,46,"school,hospital",8.079299644404573,commercial,25841443.73
+546,thane,mumbai,15,"school,hospital",28.75349855516924,commercial,10052593.43
+2482,thane,mumbai,44,"park,school",15.90027432709433,residential,45789908.0
+1313,thane,mumbai,36,"hospital,mall",26.499742043875276,commercial,26889039.35
+2253,thane,mumbai,29,"school,hospital",15.24071343730516,commercial,34292841.31
+1931,thane,mumbai,17,"mall,metro",19.772664265435004,commercial,37567781.85
+838,thane,mumbai,27,"mall,metro",8.622374220985826,commercial,13601479.99
+1283,thane,mumbai,27,"park,school",8.23297241862476,commercial,22697208.21
+590,thane,mumbai,22,"hospital,mall",18.72163630838469,residential,12432309.5
+2443,thane,mumbai,18,"hospital,mall",30.164483320367495,commercial,35255497.14
+2482,thane,mumbai,26,"mall,metro",26.914839852283333,residential,49699038.79
+824,thane,mumbai,35,"hospital,mall",17.55994237501191,residential,14163999.82
+1520,thane,mumbai,36,"park,school",18.585371182441,residential,26242289.24
+965,thane,mumbai,47,"park,school",30.292232938444833,commercial,16763755.55
+1290,thane,mumbai,33,"park,school",32.635752932512844,residential,20441857.8
+1128,thane,mumbai,35,"school,hospital",27.823250744992002,commercial,20335620.95
+2109,thane,mumbai,49,"park,school",31.32431704863185,commercial,40607852.48
+452,thane,mumbai,16,"hospital,mall",9.359801348983865,residential,8209972.47
+1218,thane,mumbai,25,"park,school",25.501709859943613,residential,19880492.63
+654,thane,mumbai,33,"mall,metro",27.60781844135495,residential,12669473.03
+1869,thane,mumbai,21,"mall,metro",27.272382076185814,commercial,37867788.0
+1373,thane,mumbai,33,"school,hospital",32.794544335063385,commercial,24821973.53
+2106,thane,mumbai,35,"school,hospital",5.388957130239149,commercial,44833063.31
+1231,thane,mumbai,43,"mall,metro",32.34459131221216,commercial,23226562.42
+1204,thane,mumbai,27,"park,school",18.46444767208976,residential,24065860.9
+1165,thane,mumbai,47,"school,hospital",16.315946811579366,commercial,24849242.39
+1543,thane,mumbai,23,"mall,metro",22.519581730517935,commercial,28402788.04
+423,thane,mumbai,24,"school,hospital",9.611101507088893,commercial,7097962.03
+608,thane,mumbai,34,"hospital,mall",28.697245472522898,commercial,12141978.17
+698,thane,mumbai,35,"mall,metro",33.70963152882511,residential,13991428.45
+2469,thane,mumbai,49,"hospital,mall",7.758366618171993,residential,38386697.37
+1273,thane,mumbai,36,"park,school",13.807230715106115,commercial,24411058.48
+436,thane,mumbai,37,"hospital,mall",12.210436292997699,residential,6638535.15
+563,thane,mumbai,35,"hospital,mall",32.47797290896027,residential,10873990.2
+1980,thane,mumbai,33,"school,hospital",32.340077798858545,commercial,32169954.98
+2483,thane,mumbai,17,"park,school",31.9484482671756,residential,43720687.99
+1712,thane,mumbai,21,"mall,metro",34.14886309719299,residential,30987271.63
+668,thane,mumbai,28,"hospital,mall",30.069952332361073,residential,10632974.58
+2182,thane,mumbai,19,"mall,metro",5.712588383084213,commercial,41578534.44
+555,thane,mumbai,18,"mall,metro",28.82644360927671,residential,8341733.51
+1332,thane,mumbai,41,"hospital,mall",18.53376991232125,commercial,27917525.64
+2173,thane,mumbai,39,"school,hospital",21.045031101830062,residential,36241534.27
+586,thane,mumbai,19,"park,school",32.84143250499001,residential,11395561.47
+1587,thane,mumbai,34,"school,hospital",13.445523328767916,commercial,31844141.58
+1962,thane,mumbai,16,"hospital,mall",9.689704224497323,residential,33834327.93
+958,thane,mumbai,49,"park,school",33.80402795241304,residential,18946009.78
+1620,thane,mumbai,38,"school,hospital",21.60572563292837,residential,31227899.43
+904,thane,mumbai,40,"school,hospital",14.140734570485252,commercial,13289493.02
+1267,thane,mumbai,47,"mall,metro",9.82863072693185,residential,22009199.37
+1435,thane,mumbai,26,"school,hospital",30.541631672764225,commercial,22671778.46
+699,thane,mumbai,19,"park,school",7.946072041411158,commercial,11528396.75
+1755,thane,mumbai,30,"school,hospital",13.554114316295633,residential,29784800.3
+1192,thane,mumbai,43,"park,school",23.490272907783595,commercial,19892166.03
+1024,thane,mumbai,38,"park,school",33.75976765788512,residential,18915301.84
+419,thane,mumbai,29,"hospital,mall",13.300395050669472,commercial,6978506.35
+950,thane,mumbai,36,"hospital,mall",18.885451282268306,commercial,18328328.43
+1651,thane,mumbai,21,"mall,metro",24.36654812245689,residential,29563126.22
+1549,thane,mumbai,23,"mall,metro",12.8970395178075,residential,31882661.66
+708,thane,mumbai,47,"school,hospital",29.379271994953708,commercial,14742795.39
+1271,thane,mumbai,50,"park,school",21.304079717543555,commercial,26596165.3
+1008,thane,mumbai,29,"park,school",9.016437783397986,residential,17170165.29
+2025,thane,mumbai,15,"mall,metro",30.439455203115998,residential,34465159.84
+974,thane,mumbai,26,"mall,metro",27.077594265044734,commercial,17154854.73
+1869,thane,mumbai,46,"mall,metro",6.885834842404076,commercial,27457521.52
+1358,thane,mumbai,28,"park,school",16.642793298439877,commercial,19973763.81
+590,thane,mumbai,35,"school,hospital",26.112087585428668,commercial,8665515.16
+1478,thane,mumbai,26,"hospital,mall",24.610259394016527,commercial,27440764.28
+718,thane,mumbai,39,"mall,metro",20.49115346502711,commercial,13010140.52
+1813,thane,mumbai,45,"school,hospital",20.055109534122252,residential,32462496.09
+2201,thane,mumbai,19,"park,school",11.345513124072642,residential,34318788.59
+1044,thane,mumbai,22,"mall,metro",17.438410552853185,commercial,17756357.43
+864,thane,mumbai,45,"hospital,mall",11.321118531552903,residential,15437018.77
+2083,thane,mumbai,17,"mall,metro",22.204595340568048,residential,30331836.7
+951,thane,mumbai,17,"mall,metro",6.677360124813325,commercial,18004989.2
+1137,thane,mumbai,40,"school,hospital",31.355269488591095,commercial,20602227.37
+751,thane,mumbai,45,"hospital,mall",10.117003519690888,commercial,11985563.93
+984,thane,mumbai,26,"park,school",10.03165104780796,commercial,19799295.93
+2257,thane,mumbai,19,"mall,metro",16.346340563624025,residential,42194705.75
+844,thane,mumbai,48,"hospital,mall",29.79542556767788,residential,12254247.77
+1126,thane,mumbai,17,"school,hospital",7.7956989740373785,residential,20072366.66
+404,thane,mumbai,42,"hospital,mall",16.111323507463403,residential,8426703.29
+2157,thane,mumbai,45,"hospital,mall",15.515534413393157,residential,34624813.36
+2142,thane,mumbai,45,"mall,metro",32.30256070026455,residential,32909598.81
+1560,thane,mumbai,49,"hospital,mall",12.7341492896574,residential,29184019.67
+429,thane,mumbai,22,"school,hospital",16.250896451148265,residential,7962886.7
+1693,thane,mumbai,21,"mall,metro",17.782147672379594,commercial,29362857.95
+1470,thane,mumbai,42,"park,school",23.35642031033945,commercial,30217075.79
+1234,thane,mumbai,50,"hospital,mall",10.361587934988652,commercial,21441049.54
+1439,thane,mumbai,37,"hospital,mall",27.07347291813832,residential,30963336.42
+1341,thane,mumbai,25,"school,hospital",11.433744246142403,commercial,23622362.86
+1786,thane,mumbai,18,"mall,metro",16.67311041755309,residential,36016738.33
+773,thane,mumbai,45,"hospital,mall",7.644220679420332,commercial,15713110.62
+1308,thane,mumbai,17,"hospital,mall",32.92054973195078,commercial,22327576.88
+1573,thane,mumbai,18,"mall,metro",24.20873943590411,commercial,30710563.01
+443,thane,mumbai,48,"park,school",10.84239483630866,residential,7022565.42
+1094,thane,mumbai,38,"mall,metro",24.650573581521346,residential,21062755.24
+755,thane,mumbai,40,"park,school",25.089861391889254,commercial,16290697.99
+1220,thane,mumbai,19,"school,hospital",21.48777960639308,commercial,22115851.89
+1823,thane,mumbai,32,"mall,metro",23.190902239767567,residential,38894928.58
+2262,thane,mumbai,15,"park,school",10.251043604418923,residential,47714491.5
+696,thane,mumbai,36,"school,hospital",29.088267277170722,commercial,12543881.33
+1424,thane,mumbai,39,"hospital,mall",28.099015782015005,commercial,27623010.32
+2279,thane,mumbai,16,"hospital,mall",8.488049043227678,residential,44001750.67
+1967,thane,mumbai,29,"mall,metro",29.00484181547106,commercial,37298971.84
+1846,thane,mumbai,15,"park,school",12.447728280862325,residential,33447360.85
+2034,thane,mumbai,36,"school,hospital",21.636545121236793,residential,39155771.25
+2351,thane,mumbai,28,"park,school",10.483533579212004,residential,39167387.31
+2443,thane,mumbai,30,"mall,metro",31.18227495224894,residential,48144709.6
+1338,thane,mumbai,30,"park,school",9.679867054284767,residential,21220571.92
+891,thane,mumbai,46,"school,hospital",27.92732637906581,residential,18733590.89
+2375,thane,mumbai,35,"hospital,mall",31.943636011785564,commercial,40547460.76
+2410,thane,mumbai,47,"park,school",16.936384936144826,residential,37877192.57
+621,thane,mumbai,42,"hospital,mall",33.18963264095066,residential,11293068.32
+2458,thane,mumbai,26,"hospital,mall",34.29521585711125,commercial,41541381.13
+1692,thane,mumbai,15,"mall,metro",16.382840107606697,residential,32761038.59
+1732,thane,mumbai,31,"mall,metro",21.456902011375657,residential,29450125.64
+1503,thane,mumbai,36,"park,school",10.517410225891325,commercial,26743911.0
+1262,thane,mumbai,38,"park,school",30.62978261722459,commercial,21980846.12
+2246,thane,mumbai,23,"mall,metro",29.42571992424199,commercial,35251424.7
+1365,thane,mumbai,39,"mall,metro",9.375312060126092,residential,25113881.99
+2337,thane,mumbai,26,"hospital,mall",19.98793478335552,commercial,47209298.12
+2393,thane,mumbai,50,"school,hospital",16.95205705589983,residential,39628668.94
+645,thane,mumbai,31,"hospital,mall",30.16915126812358,residential,10288630.26
+2242,thane,mumbai,31,"park,school",15.809197402078665,commercial,44304321.6
+1809,thane,mumbai,22,"park,school",31.0210575192241,residential,26307951.25
+1114,thane,mumbai,33,"park,school",14.752708600430077,commercial,23896956.03
+2230,thane,mumbai,39,"park,school",18.912562422092,residential,46395938.6
+1086,thane,mumbai,36,"hospital,mall",23.93820224977511,commercial,20647228.24
+692,thane,mumbai,36,"mall,metro",14.40446190168222,commercial,10358967.27
+1495,thane,mumbai,40,"park,school",31.630754197738703,commercial,28044363.85
+2244,thane,mumbai,26,"school,hospital",8.751197321960124,residential,39002338.46
+1430,thane,mumbai,20,"mall,metro",10.007313951189573,residential,30274742.83
+791,thane,mumbai,45,"school,hospital",5.790947400987231,commercial,11753710.47
+740,thane,mumbai,24,"school,hospital",24.644980266300493,commercial,11209730.54
+1667,thane,mumbai,33,"hospital,mall",23.79442053878569,residential,26757621.92
+1098,thane,mumbai,37,"park,school",30.927234249447597,commercial,16037073.21
+1515,thane,mumbai,23,"mall,metro",22.724927797373574,commercial,27799531.85
+2181,thane,mumbai,49,"park,school",32.26769455086476,commercial,39626394.0
+1330,thane,mumbai,43,"park,school",15.973499658451335,commercial,26857881.57
+1037,thane,mumbai,15,"mall,metro",15.316547517499828,commercial,17199396.82
+434,thane,mumbai,46,"hospital,mall",13.9883155396132,commercial,8398743.58
+1599,thane,mumbai,15,"park,school",10.657129379749863,commercial,29898784.8
+2016,thane,mumbai,39,"hospital,mall",11.617772786985398,residential,32657692.13
+2129,thane,mumbai,48,"park,school",13.540305640203588,commercial,40243051.42
+2091,thane,mumbai,19,"mall,metro",9.09872098779573,residential,32940787.02
+2265,thane,mumbai,32,"hospital,mall",10.633683276320337,residential,42689931.28
+1023,thane,mumbai,49,"school,hospital",10.57812794424577,residential,15096769.99
+1555,thane,mumbai,43,"school,hospital",11.984314938678663,residential,25405908.71
+460,thane,mumbai,36,"hospital,mall",14.347300556091664,commercial,8258735.48
+1921,thane,mumbai,17,"park,school",7.406692916947518,residential,34075712.6
+629,thane,mumbai,40,"school,hospital",21.295758516374256,residential,10264541.41
+1187,thane,mumbai,31,"hospital,mall",29.847561421829944,residential,24747801.75
+1419,thane,mumbai,43,"mall,metro",27.128570376605257,residential,24365003.18
+1215,thane,mumbai,21,"mall,metro",19.184766349745455,commercial,21527381.39
+1723,thane,mumbai,17,"school,hospital",12.599382210052667,commercial,26778870.04
+1213,thane,mumbai,18,"mall,metro",34.1982218130518,residential,20615022.24
+2178,thane,mumbai,25,"park,school",22.540905800383445,commercial,36452090.71
+1395,thane,mumbai,17,"hospital,mall",25.652196168052914,residential,20177691.47
+1921,thane,mumbai,30,"mall,metro",19.997576197550046,commercial,38323447.47
+645,thane,mumbai,24,"school,hospital",8.774823729956793,residential,9565595.71
+1697,thane,mumbai,37,"hospital,mall",26.995664952613108,residential,36431306.51
+1947,thane,mumbai,23,"park,school",31.95989132810128,commercial,33057735.24
+2192,thane,mumbai,49,"hospital,mall",10.693275086589544,residential,40387552.86
+1824,thane,mumbai,44,"park,school",31.029855198714788,residential,30516436.2
+682,thane,mumbai,43,"park,school",29.582556544992908,commercial,12428897.24
+2259,thane,mumbai,47,"hospital,mall",27.009732243165587,residential,32541307.87
+1891,thane,mumbai,30,"park,school",26.630106880517694,commercial,37796020.77
+1177,thane,mumbai,46,"mall,metro",23.391177270515804,commercial,21389976.85
+2078,thane,mumbai,22,"school,hospital",20.696016175797066,residential,39512148.24
+579,thane,mumbai,23,"mall,metro",31.204783327417168,residential,11819354.07
+838,thane,mumbai,21,"school,hospital",22.13036544064097,commercial,14995730.17
+2406,thane,mumbai,31,"school,hospital",15.990620602828885,residential,43755308.63
+453,thane,mumbai,28,"hospital,mall",32.85211158315107,residential,9557176.32
+2317,thane,mumbai,18,"park,school",21.74059668410065,commercial,46727735.2
+1911,thane,mumbai,18,"park,school",20.870624938753203,residential,38446638.78
+1644,thane,mumbai,28,"school,hospital",8.03675362285344,residential,24596105.45
+1978,thane,mumbai,48,"mall,metro",22.100830068884427,residential,31181419.42
+2100,thane,mumbai,37,"hospital,mall",26.076512485424207,commercial,41521158.65
+826,thane,mumbai,26,"hospital,mall",20.140783415178852,residential,12886448.38
+2214,thane,mumbai,35,"park,school",30.345620447036513,commercial,46762655.13
+2163,thane,mumbai,35,"mall,metro",21.894341084128524,residential,44013407.12
+1936,thane,mumbai,31,"park,school",33.84955326894003,commercial,38551760.02
+2026,thane,mumbai,17,"park,school",22.872884798713574,residential,29177253.66
+1636,thane,mumbai,29,"mall,metro",30.671612765246184,residential,23635775.55
+1530,thane,mumbai,47,"mall,metro",7.828613826126523,commercial,32156938.71
+1856,thane,mumbai,31,"park,school",31.688760574643844,residential,28812490.48
+1354,thane,mumbai,34,"school,hospital",22.114614784672465,residential,21995669.93
+716,thane,mumbai,45,"mall,metro",19.648291951203024,residential,14040602.33
+1630,thane,mumbai,39,"school,hospital",28.40365724025429,commercial,23910593.05
+1825,thane,mumbai,42,"hospital,mall",32.90738251831333,residential,37840473.48
+1328,thane,mumbai,15,"hospital,mall",6.623838463004691,residential,26272204.25
+1707,thane,mumbai,24,"park,school",20.072048313416982,residential,31216752.35
+1027,thane,mumbai,40,"hospital,mall",27.58520609031592,residential,15162363.71
+1309,thane,mumbai,40,"mall,metro",8.965671361126342,residential,22920507.3
+2349,thane,mumbai,18,"hospital,mall",12.876739297452342,commercial,43490260.42
+2455,thane,mumbai,23,"mall,metro",19.427675059280435,residential,43032064.88
+2398,thane,mumbai,27,"mall,metro",12.269452751795347,commercial,41356616.34
+2161,thane,mumbai,20,"school,hospital",25.15242660349206,commercial,36150426.41
+1896,thane,mumbai,35,"park,school",22.816314471232115,residential,32057220.22
+1648,navi mumbai,mumbai,37,"hospital,mall",23.69546468834992,commercial,21449596.05
+583,navi mumbai,mumbai,29,"mall,metro",25.560776823868032,residential,10228897.8
+751,navi mumbai,mumbai,18,"mall,metro",33.46822745077367,residential,9518347.06
+1578,navi mumbai,mumbai,22,"park,school",18.501847119150376,residential,19066026.82
+1759,navi mumbai,mumbai,49,"mall,metro",11.114040586298156,commercial,23313886.7
+2378,navi mumbai,mumbai,24,"school,hospital",16.29820009686163,residential,37425563.15
+1446,navi mumbai,mumbai,33,"mall,metro",28.675654835222662,commercial,18829693.26
+617,navi mumbai,mumbai,15,"school,hospital",16.659354417109377,commercial,9125284.95
+1875,navi mumbai,mumbai,16,"park,school",31.022313285634436,commercial,32223175.58
+1346,navi mumbai,mumbai,47,"school,hospital",32.116161804375636,commercial,24064807.07
+760,navi mumbai,mumbai,47,"hospital,mall",21.820626242388034,residential,9970063.29
+562,navi mumbai,mumbai,48,"park,school",15.007089038923272,commercial,7578206.3
+1043,navi mumbai,mumbai,37,"park,school",23.75692910753031,residential,12630973.39
+2453,navi mumbai,mumbai,18,"park,school",31.36031822573481,residential,33496376.51
+1547,navi mumbai,mumbai,36,"hospital,mall",24.70795276848838,residential,20657858.6
+1965,navi mumbai,mumbai,29,"hospital,mall",12.21082424511728,residential,29719263.38
+2146,navi mumbai,mumbai,36,"hospital,mall",21.26701253617677,residential,38248636.64
+967,navi mumbai,mumbai,27,"mall,metro",14.269951884865481,residential,14975140.13
+2161,navi mumbai,mumbai,24,"mall,metro",14.524886325258175,residential,38842062.09
+1154,navi mumbai,mumbai,24,"school,hospital",27.963050377075547,commercial,16047045.71
+2084,navi mumbai,mumbai,32,"mall,metro",28.373236549183783,residential,28801064.7
+938,navi mumbai,mumbai,32,"mall,metro",22.890820778649122,residential,12295753.28
+506,navi mumbai,mumbai,45,"mall,metro",20.069737623513838,commercial,7162717.41
+1931,navi mumbai,mumbai,39,"hospital,mall",19.2154076257749,residential,25303551.47
+1191,navi mumbai,mumbai,41,"school,hospital",32.76305249404729,commercial,15908947.29
+1311,navi mumbai,mumbai,27,"mall,metro",6.984089727046681,commercial,21571456.16
+2406,navi mumbai,mumbai,44,"mall,metro",17.826670498743674,residential,38801986.0
+1958,navi mumbai,mumbai,40,"school,hospital",20.61947273671246,commercial,31956920.33
+2271,navi mumbai,mumbai,17,"mall,metro",20.56107957762535,commercial,38520839.65
+560,navi mumbai,mumbai,48,"school,hospital",10.695510199184572,commercial,8593875.19
+2030,navi mumbai,mumbai,33,"hospital,mall",9.994598050965855,commercial,35131962.48
+623,navi mumbai,mumbai,24,"hospital,mall",29.896805132799187,commercial,10055044.16
+770,navi mumbai,mumbai,22,"mall,metro",28.36193425628119,residential,12578628.18
+2010,navi mumbai,mumbai,43,"school,hospital",10.366357368308467,residential,29107525.22
+2262,navi mumbai,mumbai,35,"mall,metro",26.55124159155689,residential,28367918.36
+773,navi mumbai,mumbai,43,"park,school",7.559196321029358,commercial,9805496.99
+2495,navi mumbai,mumbai,25,"hospital,mall",21.510376568274275,residential,39102725.84
+1099,navi mumbai,mumbai,24,"mall,metro",31.064556124346115,residential,19203394.82
+610,navi mumbai,mumbai,34,"hospital,mall",13.663416123342406,residential,8855668.99
+881,navi mumbai,mumbai,27,"school,hospital",23.676809839620248,commercial,15321692.55
+450,navi mumbai,mumbai,46,"school,hospital",23.239517930754182,commercial,6638335.18
+1374,navi mumbai,mumbai,45,"hospital,mall",17.304540971340693,residential,18275907.97
+426,navi mumbai,mumbai,50,"park,school",23.592981166087558,residential,5737486.87
+600,navi mumbai,mumbai,18,"park,school",6.101631554672361,residential,7865423.95
+1622,navi mumbai,mumbai,20,"school,hospital",8.266629371856954,residential,22686373.11
+1060,navi mumbai,mumbai,50,"mall,metro",33.988797915429885,commercial,16994495.55
+546,navi mumbai,mumbai,34,"park,school",16.057082764252222,commercial,6857081.72
+677,navi mumbai,mumbai,50,"school,hospital",13.784981400702186,residential,11204791.35
+899,navi mumbai,mumbai,32,"park,school",20.81158200213862,residential,14534777.25
+1256,navi mumbai,mumbai,21,"school,hospital",19.50988949628341,commercial,19684437.02
+2149,navi mumbai,mumbai,35,"park,school",20.76173675994784,commercial,33638442.36
+931,navi mumbai,mumbai,46,"hospital,mall",19.77513361155548,residential,14603423.83
+1353,navi mumbai,mumbai,27,"school,hospital",8.546214034554389,commercial,21988309.81
+883,navi mumbai,mumbai,28,"hospital,mall",17.421234185731155,commercial,14503107.45
+1832,navi mumbai,mumbai,28,"school,hospital",24.218549326327548,commercial,28144087.23
+1442,navi mumbai,mumbai,34,"park,school",20.200688812880273,commercial,24140771.49
+425,navi mumbai,mumbai,36,"park,school",16.8814797828488,residential,5390283.75
+1119,navi mumbai,mumbai,36,"hospital,mall",32.48489159520726,residential,14730620.6
+956,navi mumbai,mumbai,44,"park,school",18.87410226106398,commercial,14233858.32
+629,navi mumbai,mumbai,34,"park,school",21.655316249106555,residential,10699689.05
+1253,navi mumbai,mumbai,36,"park,school",6.986391239526856,residential,19376875.47
+1548,navi mumbai,mumbai,36,"hospital,mall",23.79532542845752,residential,26384785.26
+1995,navi mumbai,mumbai,22,"park,school",26.157985521365582,commercial,26182925.55
+529,navi mumbai,mumbai,20,"hospital,mall",31.311461978623772,commercial,7209732.8
+2251,navi mumbai,mumbai,34,"mall,metro",20.75301259062848,residential,38214652.58
+859,navi mumbai,mumbai,17,"mall,metro",32.40061538501176,commercial,12236707.67
+2472,navi mumbai,mumbai,45,"mall,metro",10.706350357856428,commercial,30033832.58
+1671,navi mumbai,mumbai,24,"school,hospital",29.664155538888302,residential,27827495.96
+1240,navi mumbai,mumbai,44,"hospital,mall",26.410321712078943,residential,20270805.5
+416,navi mumbai,mumbai,17,"school,hospital",14.99869260196594,residential,5768209.37
+822,navi mumbai,mumbai,34,"school,hospital",22.32679503228377,commercial,12431489.28
+1259,navi mumbai,mumbai,27,"park,school",13.299486160041942,commercial,17531930.31
+2206,navi mumbai,mumbai,32,"mall,metro",9.724880443581242,residential,35354997.82
+462,navi mumbai,mumbai,50,"school,hospital",11.197321387200514,commercial,8200402.21
+1704,navi mumbai,mumbai,33,"mall,metro",10.138249264190243,commercial,23219236.68
+1787,navi mumbai,mumbai,18,"mall,metro",5.869780586079262,residential,27240067.69
+833,navi mumbai,mumbai,20,"hospital,mall",16.7575028193704,commercial,11913231.0
+1856,navi mumbai,mumbai,27,"school,hospital",34.21045666697263,commercial,25751339.09
+939,navi mumbai,mumbai,44,"school,hospital",18.66752512240224,commercial,11791489.73
+2327,navi mumbai,mumbai,29,"mall,metro",30.83288831167687,commercial,31158914.61
+1888,navi mumbai,mumbai,36,"park,school",18.59849203098716,residential,27097447.33
+667,navi mumbai,mumbai,37,"hospital,mall",18.83725051114699,residential,9906288.12
+1556,navi mumbai,mumbai,23,"school,hospital",17.17057946716686,residential,25841501.98
+1734,navi mumbai,mumbai,19,"park,school",20.982366977849942,commercial,26594183.14
+2093,navi mumbai,mumbai,30,"mall,metro",34.216751936608844,commercial,28112028.51
+670,navi mumbai,mumbai,42,"hospital,mall",22.01633582725974,commercial,9409670.92
+1367,navi mumbai,mumbai,19,"hospital,mall",8.429685814417109,commercial,17823646.91
+1732,navi mumbai,mumbai,43,"mall,metro",14.241071706090146,commercial,26552471.39
+685,navi mumbai,mumbai,39,"park,school",19.82885442189629,residential,10678845.24
+770,navi mumbai,mumbai,23,"school,hospital",27.71233152152419,residential,10245366.39
+2255,navi mumbai,mumbai,39,"hospital,mall",10.869998605324701,commercial,34247891.26
+1627,navi mumbai,mumbai,34,"hospital,mall",26.53373665718294,commercial,25091038.29
+765,navi mumbai,mumbai,47,"hospital,mall",30.429102359910836,commercial,11854716.83
+655,navi mumbai,mumbai,50,"school,hospital",5.025299423192617,commercial,9311045.97
+849,navi mumbai,mumbai,16,"mall,metro",17.951465033491374,commercial,14575196.5
+1703,navi mumbai,mumbai,40,"hospital,mall",18.055701452147687,residential,27708903.17
+1110,navi mumbai,mumbai,27,"hospital,mall",30.299830121803737,commercial,16482643.61
+2108,navi mumbai,mumbai,23,"mall,metro",5.348082573357074,residential,27247172.7
+989,navi mumbai,mumbai,46,"hospital,mall",34.24925081213213,residential,16148427.0
+746,navi mumbai,mumbai,41,"hospital,mall",31.807474074273202,commercial,9566197.92
+1136,navi mumbai,mumbai,42,"hospital,mall",16.54144153490079,residential,16729151.95
+1161,navi mumbai,mumbai,15,"hospital,mall",30.404116600210973,residential,16890960.76
+2455,navi mumbai,mumbai,49,"park,school",6.003856281541312,residential,33426059.1
+2379,navi mumbai,mumbai,22,"hospital,mall",33.85213248964338,residential,38609493.41
+981,navi mumbai,mumbai,48,"park,school",18.948089819464734,residential,16069871.67
+762,navi mumbai,mumbai,19,"park,school",23.391173419231386,commercial,10265197.52
+444,navi mumbai,mumbai,47,"hospital,mall",22.218959048497947,commercial,6577066.51
+2124,navi mumbai,mumbai,33,"park,school",10.02524488463839,commercial,29985542.92
+1466,navi mumbai,mumbai,45,"mall,metro",22.18579986355153,commercial,18132230.64
+511,navi mumbai,mumbai,20,"mall,metro",20.16788327921828,commercial,7011376.8
+1432,navi mumbai,mumbai,32,"park,school",30.735751522397038,residential,18322773.05
+856,navi mumbai,mumbai,24,"hospital,mall",16.093004898989356,residential,13373227.43
+1470,navi mumbai,mumbai,30,"hospital,mall",10.424275725939573,residential,24541894.36
+1804,navi mumbai,mumbai,24,"mall,metro",30.128426588166118,commercial,32299591.62
+1969,navi mumbai,mumbai,43,"mall,metro",11.325702423846138,commercial,26439111.05
+622,navi mumbai,mumbai,22,"school,hospital",10.02801190257406,commercial,9860918.42
+2350,navi mumbai,mumbai,49,"mall,metro",16.394023824522634,commercial,32449276.53
+2343,navi mumbai,mumbai,48,"hospital,mall",5.35589120286529,commercial,31807984.38
+1964,navi mumbai,mumbai,48,"school,hospital",7.920929622138769,commercial,31563366.29
+2168,navi mumbai,mumbai,32,"park,school",13.10978351542826,residential,33957196.27
+1445,navi mumbai,mumbai,40,"hospital,mall",28.194530459185938,residential,23013156.25
+1198,navi mumbai,mumbai,26,"park,school",21.4283766621153,residential,18113417.29
+678,navi mumbai,mumbai,21,"school,hospital",25.564986567037298,commercial,8184659.02
+1298,navi mumbai,mumbai,31,"mall,metro",6.021252875857158,residential,21224252.11
+632,navi mumbai,mumbai,28,"school,hospital",26.242253174885064,residential,11142812.73
+753,navi mumbai,mumbai,23,"hospital,mall",24.691838867334518,residential,12905399.64
+854,navi mumbai,mumbai,31,"park,school",19.008667318629733,residential,13812529.22
+2257,navi mumbai,mumbai,32,"hospital,mall",25.766644754273777,commercial,39579140.98
+1454,navi mumbai,mumbai,19,"park,school",28.313178508517304,commercial,18860991.66
+1991,navi mumbai,mumbai,18,"park,school",33.668170976519775,commercial,27865893.49
+1128,navi mumbai,mumbai,46,"mall,metro",23.309056548618027,residential,16517810.47
+2415,navi mumbai,mumbai,49,"hospital,mall",11.55159494592986,residential,30551157.49
+2208,navi mumbai,mumbai,21,"school,hospital",7.187585101368797,commercial,35973623.41
+2226,navi mumbai,mumbai,46,"mall,metro",24.585959979966713,residential,26962622.58
+554,navi mumbai,mumbai,32,"mall,metro",26.001655980161768,commercial,8857149.8
+415,navi mumbai,mumbai,46,"hospital,mall",18.08173002390103,residential,6263303.68
+1325,navi mumbai,mumbai,45,"school,hospital",22.01731656535806,commercial,15926293.51
+1765,navi mumbai,mumbai,40,"school,hospital",23.968175797987534,residential,28400640.44
+1896,navi mumbai,mumbai,36,"school,hospital",30.235447613814326,commercial,28833908.75
+1231,navi mumbai,mumbai,17,"hospital,mall",24.822022659555785,commercial,16076502.8
+1997,navi mumbai,mumbai,37,"hospital,mall",7.545874540183131,commercial,34705392.08
+1176,navi mumbai,mumbai,27,"school,hospital",26.592171042349236,residential,15099437.47
+2403,navi mumbai,mumbai,49,"park,school",19.990524545447535,commercial,34441250.3
+467,navi mumbai,mumbai,18,"park,school",28.633355957495866,residential,5707793.59
+2060,navi mumbai,mumbai,48,"hospital,mall",33.20269368843984,residential,26180792.66
+1354,navi mumbai,mumbai,17,"mall,metro",19.666841399781003,residential,23761203.65
+2330,navi mumbai,mumbai,17,"mall,metro",26.03890433507854,residential,40642360.72
+458,navi mumbai,mumbai,18,"park,school",29.622176690480956,residential,5969340.28
+2268,navi mumbai,mumbai,19,"school,hospital",8.425390458958631,residential,35533561.9
+658,navi mumbai,mumbai,42,"park,school",29.3456308921939,commercial,11071982.54
+1728,navi mumbai,mumbai,49,"mall,metro",14.647696577704044,residential,21988479.69
+586,navi mumbai,mumbai,36,"school,hospital",8.622364686554675,residential,9117287.75
+2100,navi mumbai,mumbai,38,"mall,metro",18.159836361626816,residential,27317440.75
+946,navi mumbai,mumbai,39,"mall,metro",5.468909788048326,commercial,11919417.52
+730,navi mumbai,mumbai,26,"school,hospital",26.20223745370413,commercial,8787811.15
+2104,navi mumbai,mumbai,45,"mall,metro",11.184806557689871,commercial,34002788.53
+2244,navi mumbai,mumbai,26,"school,hospital",22.88815912157307,commercial,32475589.75
+760,navi mumbai,mumbai,34,"park,school",17.56357610327826,residential,11979993.94
+1186,navi mumbai,mumbai,48,"school,hospital",23.567628196306817,residential,15068185.67
+2301,navi mumbai,mumbai,28,"park,school",6.5920705781248925,residential,38247193.69
+1011,navi mumbai,mumbai,45,"hospital,mall",10.289714521115926,residential,16288688.61
+621,navi mumbai,mumbai,33,"mall,metro",18.04014926807175,commercial,9854751.48
+2256,navi mumbai,mumbai,18,"mall,metro",9.741368320321744,residential,27658345.45
+2386,navi mumbai,mumbai,19,"mall,metro",26.642092416767973,commercial,36003361.62
+2116,navi mumbai,mumbai,35,"mall,metro",28.369258368790042,commercial,27915347.72
+1332,navi mumbai,mumbai,41,"mall,metro",16.26597163633223,residential,16767728.56
+701,navi mumbai,mumbai,46,"school,hospital",31.714665316611168,residential,10392985.03
+1285,navi mumbai,mumbai,44,"mall,metro",16.619909116659702,residential,22574009.67
+2274,navi mumbai,mumbai,37,"park,school",11.066326723074466,residential,37109240.67
+531,navi mumbai,mumbai,18,"park,school",9.095044980446083,commercial,8577382.75
+2278,navi mumbai,mumbai,36,"mall,metro",31.59226915877197,residential,33052283.3
+1096,navi mumbai,mumbai,50,"mall,metro",7.594229969016344,commercial,16953726.63
+1286,navi mumbai,mumbai,44,"park,school",5.435115709159765,commercial,19996638.0
+1410,navi mumbai,mumbai,42,"mall,metro",31.75467884409718,residential,19016654.02
+420,navi mumbai,mumbai,17,"school,hospital",34.738205105957235,residential,6092785.07
+2143,navi mumbai,mumbai,45,"school,hospital",18.57324104650729,residential,32545163.16
+740,navi mumbai,mumbai,15,"hospital,mall",33.49801686808612,residential,11359682.13
+1868,navi mumbai,mumbai,20,"school,hospital",19.393488541774957,commercial,25731219.12
+1062,navi mumbai,mumbai,16,"hospital,mall",18.91281927492507,residential,17225456.2
+2060,navi mumbai,mumbai,38,"hospital,mall",26.11706189067713,residential,27005929.32
+689,navi mumbai,mumbai,36,"school,hospital",13.897699436374511,commercial,9859090.89
+1248,navi mumbai,mumbai,20,"park,school",27.072823554033768,residential,20874236.53
+1890,navi mumbai,mumbai,22,"hospital,mall",15.967725768391682,residential,32749669.45
+1897,navi mumbai,mumbai,50,"school,hospital",21.822746256590737,residential,26934740.36
+966,navi mumbai,mumbai,30,"school,hospital",24.471152010223296,residential,17279334.4
+1323,navi mumbai,mumbai,32,"hospital,mall",13.314360019816455,residential,18419841.78
+1927,navi mumbai,mumbai,46,"school,hospital",19.104915494432735,commercial,27115509.74
+2251,navi mumbai,mumbai,19,"mall,metro",31.75709639876611,commercial,35398567.82
+757,navi mumbai,mumbai,26,"park,school",33.747695153197704,residential,9448133.97
+847,navi mumbai,mumbai,22,"mall,metro",19.889862049482332,residential,11001341.91
+492,navi mumbai,mumbai,49,"mall,metro",19.21714753211295,commercial,6769436.19
+2218,navi mumbai,mumbai,16,"park,school",10.671819760564604,residential,36433434.62
+1351,navi mumbai,mumbai,48,"park,school",17.350751886972322,commercial,22980084.59
+1736,navi mumbai,mumbai,48,"hospital,mall",18.74021276177816,residential,25895721.65
+1655,navi mumbai,mumbai,31,"mall,metro",19.52729337779484,commercial,21565349.66
+593,navi mumbai,mumbai,33,"hospital,mall",33.68641566478381,residential,7643787.8
+1568,navi mumbai,mumbai,26,"mall,metro",9.837641396650373,residential,20530895.04
+568,navi mumbai,mumbai,23,"hospital,mall",12.812215917484195,residential,10202778.51
+1240,navi mumbai,mumbai,17,"park,school",34.3406768911735,residential,19064905.08
+1927,navi mumbai,mumbai,25,"park,school",8.644700703121863,residential,28308737.22
+2057,borivali,mumbai,24,"hospital,mall",32.834338691879346,residential,60292087.6
+417,borivali,mumbai,49,"park,school",24.417318561401522,commercial,12385526.18
+2341,borivali,mumbai,24,"hospital,mall",15.160532896775077,residential,67794832.21
+2361,borivali,mumbai,23,"school,hospital",14.242466023146122,commercial,68473119.21
+1302,borivali,mumbai,20,"park,school",6.651009084616124,residential,31846564.44
+1309,borivali,mumbai,32,"mall,metro",5.676459390727327,commercial,36406999.13
+757,borivali,mumbai,40,"mall,metro",19.713960808014377,residential,22527105.07
+1878,borivali,mumbai,42,"park,school",16.583378547317793,residential,45026139.19
+1565,borivali,mumbai,34,"hospital,mall",31.22905207299434,residential,36698001.34
+1283,borivali,mumbai,43,"hospital,mall",29.110565135442695,commercial,34998358.57
+1070,borivali,mumbai,42,"hospital,mall",9.187030606458677,residential,30020698.8
+988,borivali,mumbai,45,"park,school",6.983473435003979,commercial,21812903.85
+762,borivali,mumbai,32,"hospital,mall",10.246790324705952,commercial,15290435.77
+960,borivali,mumbai,39,"park,school",21.616007795315745,residential,21112872.59
+1636,borivali,mumbai,34,"hospital,mall",21.77843170013786,commercial,46373813.9
+1319,borivali,mumbai,15,"mall,metro",12.880310706832123,commercial,26734019.79
+908,borivali,mumbai,33,"hospital,mall",10.381169205580614,residential,24096621.79
+516,borivali,mumbai,32,"hospital,mall",34.829988622060114,residential,10935870.06
+1881,borivali,mumbai,42,"park,school",23.83988142443735,commercial,48549847.14
+889,borivali,mumbai,16,"park,school",9.885416980457563,residential,21097767.7
+998,borivali,mumbai,23,"park,school",9.89926555444784,commercial,23150417.49
+1879,borivali,mumbai,37,"school,hospital",13.695685928686878,residential,45462668.16
+1193,borivali,mumbai,26,"school,hospital",22.962874640366845,residential,33003658.28
+1721,borivali,mumbai,34,"park,school",25.563311583839543,commercial,49434746.34
+792,borivali,mumbai,37,"mall,metro",5.38692991516354,commercial,20072608.96
+1927,borivali,mumbai,41,"park,school",32.627221325961045,residential,53547627.17
+819,borivali,mumbai,47,"mall,metro",29.947206643614944,residential,18164406.18
+2109,borivali,mumbai,19,"school,hospital",29.565342321522266,residential,51891762.75
+2364,borivali,mumbai,38,"mall,metro",29.51116109831733,commercial,55511682.33
+1105,borivali,mumbai,16,"school,hospital",11.670735432665305,residential,29944338.46
+1328,borivali,mumbai,28,"mall,metro",34.4332870271664,commercial,30642648.14
+857,borivali,mumbai,45,"hospital,mall",6.275508224148525,residential,17806191.5
+534,borivali,mumbai,47,"school,hospital",19.072470244524375,commercial,14914914.67
+577,borivali,mumbai,15,"school,hospital",28.471124423398123,residential,11922247.27
+1219,borivali,mumbai,37,"school,hospital",7.723379391183772,commercial,26632490.44
+1824,borivali,mumbai,47,"mall,metro",20.147276871704015,residential,42904187.71
+805,borivali,mumbai,15,"mall,metro",26.474349020022345,commercial,22697671.36
+1103,borivali,mumbai,49,"school,hospital",34.207397116426236,residential,32005313.02
+1276,borivali,mumbai,45,"park,school",25.943987203250952,residential,37265288.79
+2200,borivali,mumbai,21,"mall,metro",30.042264615332112,commercial,58817565.36
+2137,borivali,mumbai,29,"hospital,mall",8.385364359932266,commercial,47319035.39
+906,borivali,mumbai,48,"mall,metro",19.874480611594095,commercial,22341069.37
+1580,borivali,mumbai,17,"school,hospital",14.843462219919145,residential,40402687.54
+1976,borivali,mumbai,34,"hospital,mall",11.776202891897237,commercial,45124162.11
+1590,borivali,mumbai,42,"mall,metro",30.703212485375065,commercial,47460901.02
+1905,borivali,mumbai,46,"school,hospital",16.891092755956578,residential,41515613.25
+888,borivali,mumbai,40,"school,hospital",27.242964787473596,residential,19033103.95
+665,borivali,mumbai,27,"park,school",11.00790491587538,commercial,15718671.46
+902,borivali,mumbai,42,"hospital,mall",13.355549968365654,commercial,20140484.14
+2039,borivali,mumbai,40,"hospital,mall",20.34243545209407,residential,48040824.09
+2262,borivali,mumbai,31,"hospital,mall",19.91821346375833,residential,47683789.43
+521,borivali,mumbai,18,"school,hospital",19.944047259861403,residential,10938933.66
+1133,borivali,mumbai,35,"mall,metro",14.082578336142022,residential,26995231.69
+713,borivali,mumbai,48,"hospital,mall",28.781942456816545,residential,18973504.71
+1602,borivali,mumbai,46,"park,school",21.273143442783276,residential,42646733.6
+529,borivali,mumbai,22,"hospital,mall",18.503465573763666,commercial,15820864.18
+2212,borivali,mumbai,17,"mall,metro",21.69999651448675,commercial,54407596.0
+1072,borivali,mumbai,23,"park,school",26.47169568890642,commercial,26708661.4
+848,borivali,mumbai,46,"hospital,mall",19.277331656721696,residential,21783892.3
+2475,borivali,mumbai,31,"hospital,mall",22.731353559539635,commercial,50879493.86
+1844,borivali,mumbai,33,"park,school",6.842719173762273,residential,51013720.95
+925,borivali,mumbai,37,"school,hospital",27.95582061067437,commercial,26241640.91
+1958,borivali,mumbai,37,"park,school",17.357888076738103,residential,41066113.96
+1400,borivali,mumbai,34,"school,hospital",32.31167056143089,residential,31466595.03
+1648,borivali,mumbai,25,"school,hospital",21.152504382904656,residential,34846486.97
+2287,borivali,mumbai,42,"hospital,mall",12.998566557556899,commercial,60783149.28
+491,borivali,mumbai,39,"hospital,mall",14.672641062558885,residential,14660105.08
+2400,borivali,mumbai,28,"park,school",19.901941903554317,commercial,50401360.4
+1082,borivali,mumbai,38,"hospital,mall",11.052758804772429,residential,28292437.59
+1276,borivali,mumbai,18,"park,school",34.88683080081359,commercial,29186656.93
+1325,borivali,mumbai,20,"school,hospital",22.75593966323988,commercial,34775582.84
+675,borivali,mumbai,48,"hospital,mall",17.813176708610165,commercial,17323390.99
+714,borivali,mumbai,34,"park,school",17.987314536450064,commercial,18931972.85
+1219,borivali,mumbai,31,"hospital,mall",25.1468074538057,residential,29430490.72
+476,borivali,mumbai,48,"mall,metro",22.305298857212875,residential,12508537.14
+2314,borivali,mumbai,49,"hospital,mall",33.0390780194364,residential,52480037.97
+1221,borivali,mumbai,24,"mall,metro",9.514179620094637,commercial,28867793.71
+2183,borivali,mumbai,19,"mall,metro",30.379009488024945,commercial,52615981.53
+1575,borivali,mumbai,31,"mall,metro",17.17597817744689,residential,41675171.79
+1014,borivali,mumbai,30,"park,school",18.924791027318467,commercial,22226028.36
+2128,borivali,mumbai,17,"mall,metro",9.780754656950823,residential,56326501.25
+519,borivali,mumbai,32,"mall,metro",24.328814637479415,residential,11721079.64
+2390,borivali,mumbai,18,"school,hospital",14.41714322602743,commercial,66495386.51
+660,borivali,mumbai,41,"park,school",25.150162203035634,residential,19143794.24
+2025,borivali,mumbai,23,"mall,metro",8.35797091669739,residential,59599033.38
+1431,borivali,mumbai,20,"mall,metro",22.994639453800804,commercial,35724215.26
+1748,borivali,mumbai,39,"mall,metro",33.06500287865154,residential,49509201.21
+990,borivali,mumbai,28,"park,school",18.18426238187601,commercial,20857458.73
+629,borivali,mumbai,38,"school,hospital",14.494698393138878,commercial,15664355.47
+2345,borivali,mumbai,32,"mall,metro",15.889940368061163,commercial,62910216.59
+1662,borivali,mumbai,17,"school,hospital",25.7204736584702,residential,33590253.38
+1436,borivali,mumbai,34,"park,school",32.09471296047798,residential,36657172.69
+1368,borivali,mumbai,39,"school,hospital",32.29367299990683,commercial,39092612.86
+1446,borivali,mumbai,30,"park,school",11.311594737935824,residential,33270842.67
+2197,borivali,mumbai,41,"school,hospital",13.22109577054782,residential,57810818.88
+2413,borivali,mumbai,41,"park,school",26.521580537192374,residential,59627432.67
+1056,borivali,mumbai,47,"school,hospital",15.555690397516756,commercial,28495971.9
+2256,borivali,mumbai,18,"mall,metro",23.90469024555496,residential,60803939.84
+412,borivali,mumbai,34,"park,school",22.27428035785974,residential,9890726.82
+1046,borivali,mumbai,23,"hospital,mall",28.77926884727587,commercial,23530853.3
+2249,borivali,mumbai,23,"park,school",10.204370771527334,commercial,55738439.64
+1554,borivali,mumbai,41,"park,school",10.456677614188383,commercial,34167234.2
+1319,borivali,mumbai,16,"mall,metro",32.20534341535938,commercial,26653489.87
+1212,borivali,mumbai,25,"school,hospital",17.031047333330818,commercial,27412811.97
+1465,borivali,mumbai,38,"mall,metro",33.417305253574895,residential,31486530.09
+457,borivali,mumbai,42,"hospital,mall",29.817723558904984,commercial,12423926.25
+885,borivali,mumbai,28,"mall,metro",33.38156980170385,commercial,19686682.96
+1579,borivali,mumbai,39,"mall,metro",17.93925766415992,residential,43366335.44
+1282,borivali,mumbai,33,"mall,metro",17.549929733657063,commercial,38398559.51
+997,borivali,mumbai,31,"mall,metro",23.530407201717054,residential,20226867.97
+1914,borivali,mumbai,44,"school,hospital",5.3096072678748385,residential,49436764.9
+1724,borivali,mumbai,40,"mall,metro",26.40007847178626,commercial,51278641.81
+1449,borivali,mumbai,50,"school,hospital",6.563378348841338,residential,30038575.91
+2328,borivali,mumbai,17,"school,hospital",12.609706484796552,commercial,67703513.79
+1639,borivali,mumbai,38,"mall,metro",34.04173431371732,residential,48801616.29
+1134,borivali,mumbai,47,"hospital,mall",32.90980823468642,commercial,25631707.34
+940,borivali,mumbai,48,"hospital,mall",9.25387202063337,residential,19642691.02
+1683,borivali,mumbai,23,"hospital,mall",31.150386774548473,commercial,34403249.18
+1876,borivali,mumbai,33,"park,school",23.38794711893555,commercial,54896206.92
+1682,borivali,mumbai,25,"park,school",27.10607714829558,commercial,40969741.7
+1019,borivali,mumbai,43,"school,hospital",10.667598653276443,residential,26042325.28
+1341,borivali,mumbai,45,"park,school",9.906648704252284,commercial,29275925.12
+2187,borivali,mumbai,46,"school,hospital",18.2455906323761,commercial,46277445.91
+2274,borivali,mumbai,24,"school,hospital",15.48812905555469,residential,56690559.63
+1563,borivali,mumbai,25,"park,school",21.897421678355602,residential,34083637.09
+416,borivali,mumbai,26,"hospital,mall",32.612395899780566,residential,10508224.09
+2440,borivali,mumbai,36,"school,hospital",13.528437543208675,residential,65316567.79
+2014,borivali,mumbai,21,"park,school",9.613264060513936,residential,47803464.36
+2285,borivali,mumbai,45,"hospital,mall",23.850702186346393,commercial,64681477.3
+423,borivali,mumbai,17,"hospital,mall",14.74746404903048,residential,9853475.88
+1265,borivali,mumbai,33,"park,school",28.944409129515666,residential,36220477.37
+1962,borivali,mumbai,31,"mall,metro",12.202403984602384,commercial,41055850.83
+765,borivali,mumbai,28,"mall,metro",16.655087049192012,commercial,15456917.07
+1567,borivali,mumbai,24,"school,hospital",13.956399818698708,commercial,41481122.58
+1670,borivali,mumbai,23,"park,school",24.96560888650525,commercial,48492362.34
+2499,borivali,mumbai,43,"hospital,mall",19.29319059889303,commercial,54974782.8
+769,borivali,mumbai,38,"mall,metro",18.023177675311175,commercial,21197413.05
+780,borivali,mumbai,36,"hospital,mall",25.293200960210754,residential,15915417.1
+2428,borivali,mumbai,48,"school,hospital",13.721090734351984,commercial,61362327.11
+724,borivali,mumbai,45,"park,school",9.458196159642839,residential,21048183.83
+1630,borivali,mumbai,48,"hospital,mall",13.864449017167617,residential,46317068.65
+713,borivali,mumbai,47,"school,hospital",20.319547524656393,commercial,20800363.35
+787,borivali,mumbai,31,"park,school",12.645806130521269,residential,19396846.59
+2462,borivali,mumbai,44,"mall,metro",28.585312779741315,commercial,49640535.24
+585,borivali,mumbai,34,"park,school",22.61625164540738,commercial,12187249.81
+2242,borivali,mumbai,31,"park,school",34.00158880310772,residential,58825829.04
+1264,borivali,mumbai,31,"school,hospital",18.013967618579265,residential,27619504.62
+423,borivali,mumbai,15,"mall,metro",24.674029158902137,commercial,10130570.16
+2059,borivali,mumbai,46,"park,school",23.554981234624787,commercial,59068190.93
+2017,borivali,mumbai,20,"mall,metro",9.053418415906112,residential,56569603.62
+858,borivali,mumbai,27,"school,hospital",11.276884410034981,residential,24161007.35
+1390,borivali,mumbai,49,"mall,metro",7.582806416061043,commercial,33857459.79
+1006,borivali,mumbai,16,"school,hospital",9.983164795282931,residential,24888330.22
+2223,borivali,mumbai,45,"school,hospital",30.793893363218665,residential,65886760.54
+1224,borivali,mumbai,40,"school,hospital",15.015501679749999,residential,28088736.42
+2168,borivali,mumbai,46,"park,school",6.110516448504443,commercial,64595276.81
+2391,borivali,mumbai,46,"mall,metro",26.428709863283785,residential,60094335.3
+2128,borivali,mumbai,50,"school,hospital",13.035466125505534,commercial,54825863.33
+2338,borivali,mumbai,37,"hospital,mall",25.925433211676033,residential,49494074.51
+1060,borivali,mumbai,27,"hospital,mall",15.315421694094839,residential,24252914.28
+2479,borivali,mumbai,36,"hospital,mall",8.934757012838137,commercial,55026421.13
+1998,borivali,mumbai,38,"hospital,mall",28.992651768984267,residential,59136871.3
+1248,borivali,mumbai,20,"hospital,mall",8.872896620621779,residential,28485066.05
+1040,borivali,mumbai,21,"hospital,mall",33.29164095083637,commercial,27099789.68
+1643,borivali,mumbai,50,"school,hospital",34.97783668744503,commercial,36716431.62
+1468,borivali,mumbai,25,"mall,metro",29.838460652409864,residential,34601404.08
+660,borivali,mumbai,22,"mall,metro",8.620640984620476,residential,15429049.38
+2392,borivali,mumbai,36,"park,school",28.081217046084184,commercial,54007105.61
+1019,borivali,mumbai,47,"school,hospital",26.19214751953379,commercial,29076229.03
+2272,borivali,mumbai,22,"school,hospital",28.449571865179955,residential,67311342.32
+571,borivali,mumbai,25,"school,hospital",31.12608422459354,commercial,14316715.7
+1043,borivali,mumbai,43,"hospital,mall",26.976556823512773,residential,28456682.97
+1031,borivali,mumbai,36,"mall,metro",8.689504082931968,residential,27291528.53
+2198,borivali,mumbai,15,"mall,metro",30.04440109636155,commercial,65272613.94
+1798,borivali,mumbai,25,"school,hospital",12.980468877949495,commercial,41115914.23
+1877,borivali,mumbai,30,"mall,metro",27.59618775997471,commercial,49354596.35
+1334,borivali,mumbai,42,"hospital,mall",32.540601732427476,commercial,28520844.4
+1881,borivali,mumbai,43,"mall,metro",28.104555832583166,residential,55371754.22
+747,borivali,mumbai,40,"mall,metro",18.022168366939198,commercial,17467128.1
+551,borivali,mumbai,24,"school,hospital",34.33198928049376,commercial,14657570.71
+2117,borivali,mumbai,50,"park,school",26.646531315750813,commercial,50850399.66
+1809,borivali,mumbai,32,"mall,metro",26.008851916478143,commercial,36322951.4
+1240,borivali,mumbai,43,"park,school",31.6302468952159,commercial,35805989.0
+1208,borivali,mumbai,20,"school,hospital",21.123004779478816,commercial,34802174.16
+916,borivali,mumbai,49,"park,school",11.412035471086105,commercial,23087502.48
+1795,borivali,mumbai,25,"school,hospital",5.836736758869737,commercial,49488981.52
+1388,borivali,mumbai,34,"hospital,mall",34.608641007231455,residential,39311338.34
+645,borivali,mumbai,31,"park,school",8.714390556752576,residential,18328213.19
+2238,borivali,mumbai,15,"hospital,mall",15.169408839110408,residential,51428369.7
+1357,borivali,mumbai,33,"mall,metro",26.430529365911866,residential,31894074.92
+831,borivali,mumbai,27,"park,school",18.629287726727387,residential,19344408.26
+2143,borivali,mumbai,20,"school,hospital",6.865810176332307,residential,60613418.4
+2350,borivali,mumbai,19,"park,school",25.304673282710223,commercial,52047433.45
+2017,borivali,mumbai,46,"hospital,mall",34.89535326661466,commercial,57928538.37
+2107,borivali,mumbai,24,"mall,metro",19.542932073284064,commercial,59497715.26
+929,borivali,mumbai,47,"school,hospital",25.834121155584427,commercial,27573015.48
+2338,borivali,mumbai,25,"park,school",32.650920663436146,residential,47522360.77
+2073,borivali,mumbai,38,"park,school",6.208464247609116,residential,43747268.66
+882,borivali,mumbai,38,"park,school",13.819438849223898,residential,20916342.06
+985,borivali,mumbai,41,"school,hospital",33.10461965819886,commercial,21100077.09
+1561,malad,mumbai,46,"school,hospital",8.669837165073446,commercial,30434999.34
+676,malad,mumbai,41,"hospital,mall",22.19177275367868,commercial,17075593.38
+1783,malad,mumbai,45,"mall,metro",27.858536944953116,commercial,43640483.82
+2242,malad,mumbai,24,"park,school",7.679449424105499,commercial,52623198.41
+1986,malad,mumbai,40,"park,school",21.229833523739806,commercial,39022588.48
+1536,malad,mumbai,25,"school,hospital",22.159843809182018,commercial,35764324.55
+907,malad,mumbai,20,"mall,metro",33.65504979015232,residential,21102665.5
+1175,malad,mumbai,47,"school,hospital",8.608495293167472,residential,28440775.65
+477,malad,mumbai,28,"mall,metro",29.890716531638287,commercial,9549382.71
+746,malad,mumbai,35,"hospital,mall",22.66679079345993,commercial,18426875.14
+495,malad,mumbai,26,"hospital,mall",5.721708206753822,commercial,10192850.75
+1964,malad,mumbai,22,"school,hospital",21.253378205334243,commercial,39011255.23
+989,malad,mumbai,20,"mall,metro",14.20382655087815,commercial,18996204.2
+1093,malad,mumbai,35,"mall,metro",5.815135772518952,residential,19803455.87
+1620,malad,mumbai,35,"mall,metro",17.384684359955273,commercial,34070980.52
+1456,malad,mumbai,22,"school,hospital",11.0767837404362,residential,30436974.99
+2419,malad,mumbai,47,"hospital,mall",33.48071167955131,commercial,53401522.77
+648,malad,mumbai,50,"hospital,mall",6.963746357896516,residential,13220081.75
+2069,malad,mumbai,16,"park,school",21.622257895054222,residential,47949413.07
+1408,malad,mumbai,23,"park,school",22.047369124013017,commercial,34234406.29
+743,malad,mumbai,47,"mall,metro",28.48644762514044,residential,18610103.11
+1929,malad,mumbai,25,"mall,metro",21.126068894404014,commercial,43124472.92
+2250,malad,mumbai,44,"park,school",24.591765472013158,residential,40427483.18
+402,malad,mumbai,45,"park,school",22.936032545020197,commercial,7288075.19
+1839,malad,mumbai,28,"park,school",6.364541909415191,residential,45999753.53
+1631,malad,mumbai,22,"mall,metro",26.75221343855837,commercial,29993262.94
+2169,malad,mumbai,47,"park,school",31.51794836270086,commercial,42198939.48
+1470,malad,mumbai,43,"park,school",12.377848549696136,commercial,38544627.54
+1799,malad,mumbai,36,"school,hospital",32.42054723765963,residential,34996828.98
+408,malad,mumbai,15,"school,hospital",25.181192123935226,commercial,9366587.95
+2402,malad,mumbai,49,"school,hospital",28.619157048326795,residential,58391885.29
+526,malad,mumbai,43,"school,hospital",15.589841970512051,commercial,13389138.17
+1866,malad,mumbai,15,"school,hospital",18.880775951701544,residential,39192361.39
+2220,malad,mumbai,16,"park,school",25.416630563452546,commercial,39254921.48
+1184,malad,mumbai,34,"mall,metro",12.027738313403527,commercial,21775779.16
+1886,malad,mumbai,46,"mall,metro",5.214062004406776,commercial,33804296.57
+854,malad,mumbai,47,"hospital,mall",10.114312891316082,residential,21567994.47
+1118,malad,mumbai,23,"school,hospital",8.822927309488758,residential,20319843.97
+1523,malad,mumbai,16,"park,school",25.42041060927122,commercial,29376071.18
+408,malad,mumbai,18,"park,school",17.976445148365546,commercial,10548201.58
+1522,malad,mumbai,48,"hospital,mall",19.867241463394127,residential,28417438.14
+1319,malad,mumbai,41,"hospital,mall",14.487258942088323,commercial,23759528.06
+1197,malad,mumbai,16,"mall,metro",34.34286833320907,commercial,24592857.18
+704,malad,mumbai,27,"mall,metro",14.876739005179523,residential,18071368.8
+796,malad,mumbai,42,"school,hospital",22.775923117374084,commercial,14204843.05
+1425,malad,mumbai,45,"mall,metro",33.7640797363524,residential,28179305.72
+1766,malad,mumbai,30,"school,hospital",28.27248415350125,commercial,39157765.93
+791,malad,mumbai,22,"school,hospital",34.23576736316538,residential,18274527.63
+1945,malad,mumbai,19,"mall,metro",6.860067006747972,commercial,39594090.8
+624,malad,mumbai,42,"school,hospital",8.05482745414178,residential,12637837.96
+613,malad,mumbai,39,"hospital,mall",7.874907542162084,commercial,12379699.03
+1354,malad,mumbai,15,"hospital,mall",16.51760074441338,commercial,34132076.31
+814,malad,mumbai,16,"hospital,mall",20.516386776013746,residential,16759140.73
+842,malad,mumbai,19,"mall,metro",32.13109975454482,residential,15580089.26
+2484,malad,mumbai,41,"hospital,mall",26.73869109619801,commercial,49320609.17
+1161,malad,mumbai,17,"school,hospital",8.830422530695836,commercial,22917840.24
+1865,malad,mumbai,49,"mall,metro",9.422271878165846,commercial,37931221.4
+1804,malad,mumbai,15,"mall,metro",6.719529383790644,residential,36371098.34
+2128,malad,mumbai,27,"mall,metro",28.55791421273435,commercial,43891237.87
+1175,malad,mumbai,44,"park,school",30.56026046985628,commercial,27585673.84
+1627,malad,mumbai,25,"school,hospital",18.6290628186104,residential,34629911.66
+2431,malad,mumbai,15,"mall,metro",25.796616724939796,commercial,47479306.14
+1273,malad,mumbai,36,"hospital,mall",11.159490808914429,residential,25082386.89
+427,malad,mumbai,19,"park,school",5.9005276608522825,residential,8878521.71
+983,malad,mumbai,27,"park,school",6.317144775832281,residential,19814400.49
+1215,malad,mumbai,26,"mall,metro",31.56146688654993,residential,23499144.84
+1791,malad,mumbai,30,"mall,metro",10.87962680045337,residential,44879416.76
+1472,malad,mumbai,16,"mall,metro",16.367682737455333,residential,37703382.24
+1786,malad,mumbai,34,"hospital,mall",12.204497986206558,commercial,46146318.15
+1101,malad,mumbai,42,"school,hospital",8.554799589015296,residential,28496328.02
+1176,malad,mumbai,39,"park,school",14.53854827572759,commercial,22681271.36
+1401,malad,mumbai,27,"park,school",28.68763368172204,commercial,36012592.4
+1412,malad,mumbai,32,"mall,metro",30.54507915115419,commercial,25512974.72
+1257,malad,mumbai,45,"school,hospital",10.023006239968641,commercial,30168285.57
+2485,malad,mumbai,48,"hospital,mall",10.369955522229475,commercial,51920450.89
+2379,malad,mumbai,46,"hospital,mall",13.050063754883412,commercial,56852673.21
+549,malad,mumbai,27,"hospital,mall",30.895047910746467,commercial,10663422.7
+1295,malad,mumbai,39,"mall,metro",33.06496720964422,commercial,26279165.02
+1442,malad,mumbai,23,"school,hospital",13.851440499239855,commercial,32365484.33
+1342,malad,mumbai,44,"park,school",17.7830703074823,commercial,30515560.29
+2171,malad,mumbai,46,"park,school",13.190583970182594,residential,46022560.98
+1135,malad,mumbai,31,"school,hospital",15.772788055570985,residential,24387584.68
+1606,malad,mumbai,47,"school,hospital",28.57619887808523,residential,40173945.18
+803,malad,mumbai,38,"school,hospital",21.380781799623353,commercial,14970789.41
+1205,malad,mumbai,31,"park,school",27.35634039690303,commercial,28366838.08
+1180,malad,mumbai,23,"park,school",5.25601635204466,commercial,28095393.15
+1554,malad,mumbai,40,"hospital,mall",29.65583948342959,residential,38595638.07
+2333,malad,mumbai,24,"hospital,mall",11.827354779897547,residential,54489550.57
+2343,malad,mumbai,50,"hospital,mall",26.675310540437184,commercial,46055798.22
+1795,malad,mumbai,35,"mall,metro",17.863789223908867,commercial,44101087.58
+1258,malad,mumbai,50,"school,hospital",16.241005019608934,residential,26997171.94
+1651,malad,mumbai,15,"hospital,mall",29.31204154912713,commercial,42763401.61
+1791,malad,mumbai,42,"hospital,mall",27.88524741947131,commercial,35075512.88
+1735,malad,mumbai,17,"mall,metro",9.610737184564021,commercial,39497630.25
+2001,malad,mumbai,28,"hospital,mall",6.91127744342921,commercial,52477254.75
+1171,malad,mumbai,36,"hospital,mall",24.17009917529161,commercial,25502088.78
+781,malad,mumbai,50,"mall,metro",5.961774623351131,commercial,14923760.53
+509,malad,mumbai,19,"hospital,mall",13.51452861857987,residential,9794631.28
+1592,malad,mumbai,19,"hospital,mall",6.723595418479798,residential,37259510.38
+1103,malad,mumbai,41,"hospital,mall",9.711063650904993,residential,22584580.42
+928,malad,mumbai,45,"school,hospital",16.669786934948732,residential,20713689.94
+932,malad,mumbai,34,"hospital,mall",29.536883095578464,commercial,23542275.07
+1050,malad,mumbai,34,"mall,metro",20.074250634783215,commercial,24058275.31
+1528,malad,mumbai,24,"hospital,mall",6.91910128844886,commercial,29604975.57
+1411,malad,mumbai,46,"hospital,mall",18.880863616496192,residential,31363055.05
+773,malad,mumbai,44,"park,school",26.009496191733955,commercial,15563291.13
+2001,malad,mumbai,26,"hospital,mall",12.474044527019135,commercial,46012278.85
+2275,malad,mumbai,26,"school,hospital",16.806539527768955,residential,47740993.24
+1381,malad,mumbai,25,"park,school",31.476674965340614,commercial,35067412.61
+673,malad,mumbai,28,"hospital,mall",17.33834475108751,residential,15978895.74
+1910,malad,mumbai,21,"park,school",17.302882027090185,residential,34902377.36
+1435,malad,mumbai,17,"hospital,mall",5.801536382703965,commercial,27874694.82
+1961,malad,mumbai,40,"mall,metro",16.90022983501285,residential,40444032.46
+1426,malad,mumbai,23,"park,school",25.10886715695471,commercial,26536730.48
+2385,malad,mumbai,20,"mall,metro",26.407446179543083,commercial,51658960.67
+974,malad,mumbai,32,"mall,metro",10.1176728692269,residential,21177615.81
+811,malad,mumbai,22,"hospital,mall",10.053601207789473,residential,15538502.19
+1519,malad,mumbai,37,"mall,metro",11.500172998252275,residential,28786218.11
+1285,malad,mumbai,18,"school,hospital",16.71855167083741,commercial,27614793.49
+2218,malad,mumbai,15,"school,hospital",28.172290856554103,residential,40059861.94
+1422,malad,mumbai,30,"mall,metro",7.741592902549751,commercial,29715353.96
+514,malad,mumbai,36,"mall,metro",25.398785770449667,residential,13521159.35
+1303,malad,mumbai,21,"mall,metro",26.720344908620547,residential,33926156.59
+2102,malad,mumbai,35,"park,school",21.861623516705578,residential,46475221.86
+1248,malad,mumbai,40,"hospital,mall",8.624118841977745,residential,32225956.89
+833,malad,mumbai,26,"school,hospital",17.064184692649413,commercial,17274647.1
+449,malad,mumbai,44,"mall,metro",6.980488521895191,commercial,9440154.33
+1911,malad,mumbai,28,"hospital,mall",14.046027459400547,commercial,34372512.41
+817,malad,mumbai,25,"park,school",33.771041131335025,commercial,19502013.66
+1991,malad,mumbai,23,"park,school",10.25993137851807,commercial,46918959.47
+2374,malad,mumbai,16,"hospital,mall",16.471141989013432,residential,43192837.68
+2462,malad,mumbai,15,"mall,metro",5.6364013887231055,residential,56059058.56
+1665,malad,mumbai,42,"mall,metro",23.592986854774423,residential,32767678.96
+963,malad,mumbai,33,"mall,metro",9.550117561760828,residential,20122663.04
+555,malad,mumbai,43,"park,school",9.028010356007464,commercial,10930704.42
+562,malad,mumbai,41,"park,school",27.516527330210803,residential,12467228.81
+1756,malad,mumbai,28,"school,hospital",32.198961731272526,residential,36201713.66
+1311,malad,mumbai,39,"park,school",10.50636420600732,residential,30088703.5
+664,malad,mumbai,19,"mall,metro",6.563205860786202,residential,16769205.33
+1236,malad,mumbai,26,"mall,metro",12.089303845336559,residential,23119301.88
+2145,malad,mumbai,34,"mall,metro",26.65021297280556,residential,51436894.34
+2136,malad,mumbai,30,"park,school",13.560586700533738,commercial,40910022.9
+1224,malad,mumbai,45,"school,hospital",33.53039576989901,commercial,24470666.88
+2031,malad,mumbai,45,"hospital,mall",17.680917718699398,commercial,42496469.13
+1038,malad,mumbai,45,"school,hospital",27.857878963966513,commercial,25755389.02
+740,malad,mumbai,34,"mall,metro",21.585564105208565,residential,17965685.4
+1453,malad,mumbai,34,"hospital,mall",13.49677243273263,commercial,30437388.91
+694,malad,mumbai,45,"mall,metro",9.64173367235033,residential,14249527.54
+417,malad,mumbai,47,"park,school",19.74361153048767,commercial,7386296.65
+2016,malad,mumbai,38,"hospital,mall",19.686533430474434,residential,52698915.77
+2074,malad,mumbai,22,"hospital,mall",32.96388675993873,residential,52654704.35
+1195,malad,mumbai,31,"park,school",20.288250902845363,commercial,29055191.2
+1908,malad,mumbai,39,"hospital,mall",27.06992616805251,residential,45274564.95
+2356,malad,mumbai,38,"school,hospital",25.924142673390126,residential,42181038.59
+1470,malad,mumbai,24,"park,school",12.422444060925244,residential,33703915.38
+450,malad,mumbai,20,"hospital,mall",16.93000764535437,residential,8382253.35
+1173,malad,mumbai,25,"hospital,mall",12.586137061976668,commercial,29687286.06
+2450,malad,mumbai,39,"park,school",27.01800310871206,residential,63983254.77
+847,malad,mumbai,37,"mall,metro",13.070640135272606,residential,19649033.1
+2030,malad,mumbai,15,"mall,metro",29.49168134295715,residential,48215096.71
+796,malad,mumbai,41,"hospital,mall",24.635635753350016,commercial,14498825.7
+1098,malad,mumbai,26,"mall,metro",10.940615867034627,residential,21029259.9
+2458,malad,mumbai,43,"mall,metro",10.569141254039298,residential,63776873.42
+1148,malad,mumbai,27,"park,school",34.48841375908404,commercial,28379446.15
+2205,malad,mumbai,21,"mall,metro",7.394294059230146,residential,50971152.51
+1947,malad,mumbai,19,"park,school",5.889999550352929,residential,36403444.3
+2357,malad,mumbai,21,"school,hospital",6.831694006788895,residential,51546907.19
+571,malad,mumbai,48,"school,hospital",16.269974098276688,commercial,10536210.93
+2390,malad,mumbai,36,"hospital,mall",15.096506037738573,commercial,52017010.86
+1691,malad,mumbai,38,"hospital,mall",16.353070946963665,residential,41916939.7
+1858,malad,mumbai,21,"school,hospital",18.7075777807552,commercial,46975965.25
+968,malad,mumbai,22,"park,school",33.531858183279176,residential,17255556.15
+1909,malad,mumbai,45,"hospital,mall",24.80685230819917,residential,41190262.17
+1719,malad,mumbai,38,"school,hospital",34.087927298447,commercial,30505969.94
+2219,malad,mumbai,46,"hospital,mall",27.176139044596034,residential,43615146.51
+1826,malad,mumbai,45,"school,hospital",27.028332289649217,commercial,39013701.13
+1199,malad,mumbai,48,"school,hospital",8.83584063453787,residential,28614242.15
+1634,malad,mumbai,50,"hospital,mall",10.041585541458854,commercial,40726986.23
+873,malad,mumbai,49,"mall,metro",12.30067995450813,residential,19069011.63
+766,malad,mumbai,16,"mall,metro",32.870104297019694,commercial,14192550.0
+1970,malad,mumbai,29,"park,school",24.977980437048295,residential,47956729.77
+956,malad,mumbai,46,"school,hospital",28.866213938247682,commercial,24588394.99
+1316,malad,mumbai,19,"park,school",16.310309673138065,commercial,33952357.3
+2189,malad,mumbai,29,"park,school",8.470698958108535,residential,54099685.53
+856,malad,mumbai,27,"school,hospital",22.185170285642972,residential,15737069.47
+1683,malad,mumbai,15,"park,school",6.856548098488101,residential,43750937.87
+1989,malad,mumbai,35,"park,school",28.925544175349657,residential,52156901.74
+1309,malad,mumbai,15,"hospital,mall",14.477786752142187,commercial,24266184.56
+1296,malad,mumbai,44,"mall,metro",23.043962407870474,residential,28510091.58
+540,malad,mumbai,34,"school,hospital",13.203576280962363,commercial,12349879.22
+1283,malad,mumbai,39,"school,hospital",34.43428385485936,commercial,28169836.19
+1025,malad,mumbai,28,"mall,metro",26.012222409783057,residential,25507519.94
+1133,malad,mumbai,40,"park,school",34.53168626465175,residential,28483227.31
+488,malad,mumbai,36,"hospital,mall",25.336960585435094,commercial,10941886.03
+2003,malad,mumbai,48,"park,school",13.470922491634557,residential,42145834.53
+2012,malad,mumbai,35,"school,hospital",30.494291618744008,commercial,37134301.32
+2274,malad,mumbai,23,"hospital,mall",25.87866577858665,commercial,53122411.6
+993,malad,mumbai,27,"school,hospital",15.866773290773667,residential,19309822.23
+1004,malad,mumbai,42,"mall,metro",32.7795601017024,residential,20997345.74
+1856,malad,mumbai,26,"school,hospital",8.520405362608301,commercial,48576340.19
+2176,goregaon,mumbai,40,"mall,metro",6.01978483471331,residential,72375810.01
+2024,goregaon,mumbai,26,"hospital,mall",28.27549428309385,residential,56414162.66
+2299,goregaon,mumbai,39,"park,school",23.970005434720697,commercial,73767628.7
+1904,goregaon,mumbai,22,"school,hospital",8.661546891007966,residential,42897019.23
+494,goregaon,mumbai,45,"park,school",25.81177556783541,residential,14312526.4
+1141,goregaon,mumbai,42,"park,school",22.142692981340684,residential,30465100.07
+1732,goregaon,mumbai,49,"mall,metro",17.159915450111313,residential,40028565.45
+2012,goregaon,mumbai,49,"hospital,mall",6.917949881904075,residential,57599282.16
+1249,goregaon,mumbai,22,"mall,metro",30.860103279151605,residential,41486318.98
+421,goregaon,mumbai,35,"school,hospital",6.174294828358883,residential,12046024.08
+1060,goregaon,mumbai,31,"school,hospital",7.538309837861754,residential,24786610.07
+2473,goregaon,mumbai,49,"mall,metro",17.69153981889108,residential,63665091.86
+1417,goregaon,mumbai,48,"park,school",24.774727344684838,commercial,36511441.89
+972,goregaon,mumbai,35,"park,school",23.18516400565419,residential,28055030.84
+805,goregaon,mumbai,17,"mall,metro",6.102018472866785,residential,24006154.84
+1627,goregaon,mumbai,28,"mall,metro",23.064331610218574,residential,52044726.45
+1870,goregaon,mumbai,42,"school,hospital",21.49545831716821,commercial,47697775.93
+1963,goregaon,mumbai,25,"hospital,mall",18.682032469642326,commercial,58256760.02
+2142,goregaon,mumbai,24,"mall,metro",7.116741380744022,commercial,70536557.96
+1189,goregaon,mumbai,47,"mall,metro",17.590594177298502,residential,36147720.75
+1695,goregaon,mumbai,42,"hospital,mall",5.777295894328733,residential,56808651.65
+717,goregaon,mumbai,49,"school,hospital",25.51937741377252,commercial,18230013.68
+670,goregaon,mumbai,20,"park,school",32.27736167613804,commercial,17479498.75
+999,goregaon,mumbai,29,"park,school",5.295899979311269,commercial,32099048.97
+1310,goregaon,mumbai,21,"school,hospital",10.27194116856359,commercial,34899293.86
+2405,goregaon,mumbai,37,"park,school",21.54626695909812,residential,56445480.45
+596,goregaon,mumbai,39,"mall,metro",15.35518664257638,commercial,14490173.16
+2353,goregaon,mumbai,31,"school,hospital",25.59975046967687,residential,68316704.09
+917,goregaon,mumbai,32,"school,hospital",32.553249312658444,commercial,22006079.43
+1420,goregaon,mumbai,41,"hospital,mall",10.49313577390313,commercial,42594334.94
+2319,goregaon,mumbai,32,"hospital,mall",20.617839904504343,residential,64989899.75
+1650,goregaon,mumbai,20,"park,school",17.1954435342353,commercial,48706539.39
+769,goregaon,mumbai,19,"mall,metro",33.34600845582044,residential,22691943.31
+635,goregaon,mumbai,33,"hospital,mall",29.250407563377834,residential,14825569.38
+2136,goregaon,mumbai,23,"hospital,mall",19.93415613062936,residential,64043197.37
+2060,goregaon,mumbai,27,"school,hospital",26.424802189688137,commercial,46464706.85
+1400,goregaon,mumbai,48,"school,hospital",23.221206392791576,residential,46949400.12
+1321,goregaon,mumbai,38,"mall,metro",20.41053452043791,residential,32176810.98
+2131,goregaon,mumbai,25,"park,school",34.09185210911188,commercial,59560785.23
+1423,goregaon,mumbai,22,"park,school",13.975339788896889,commercial,45130922.77
+1484,goregaon,mumbai,40,"mall,metro",32.69169098991598,residential,36782926.45
+2296,goregaon,mumbai,46,"school,hospital",15.67232191694329,commercial,74381059.35
+1745,goregaon,mumbai,21,"school,hospital",15.491650974049328,residential,44918965.1
+2046,goregaon,mumbai,21,"hospital,mall",19.7613835776324,residential,53954579.11
+1029,goregaon,mumbai,46,"school,hospital",9.668912016476899,commercial,27783054.94
+1326,goregaon,mumbai,38,"park,school",15.934870934860735,residential,36692840.24
+1503,goregaon,mumbai,43,"hospital,mall",9.85502901819521,commercial,35496928.03
+2177,goregaon,mumbai,27,"school,hospital",10.687012065552121,residential,48906467.08
+947,goregaon,mumbai,36,"school,hospital",9.809375032679322,residential,25397512.75
+2363,goregaon,mumbai,32,"school,hospital",17.63285968208339,commercial,78330205.97
+921,goregaon,mumbai,40,"hospital,mall",8.942530105203266,residential,23981681.59
+486,goregaon,mumbai,37,"school,hospital",28.021548543372226,residential,11572915.86
+613,goregaon,mumbai,36,"hospital,mall",34.29315580362532,residential,18388207.32
+2179,goregaon,mumbai,33,"hospital,mall",7.4784469070061785,commercial,60528614.46
+1414,goregaon,mumbai,47,"mall,metro",12.484003591792021,residential,41454616.1
+1479,goregaon,mumbai,30,"hospital,mall",10.952373774474745,residential,49599269.35
+2457,goregaon,mumbai,27,"mall,metro",11.881525766952599,residential,71853306.46
+2043,goregaon,mumbai,27,"mall,metro",17.789089311136603,residential,46641085.34
+772,goregaon,mumbai,39,"hospital,mall",20.749135458420056,residential,24766316.8
+1308,goregaon,mumbai,45,"school,hospital",20.295910781712717,residential,34224071.05
+1646,goregaon,mumbai,38,"park,school",33.2899624148811,commercial,38899285.0
+1411,goregaon,mumbai,18,"mall,metro",6.2266738713985506,residential,36660909.47
+1717,goregaon,mumbai,45,"park,school",32.2544592484508,residential,42537213.1
+2164,goregaon,mumbai,46,"park,school",15.028464415153122,residential,52953530.19
+796,goregaon,mumbai,50,"mall,metro",14.936352005728043,commercial,23794201.11
+1922,goregaon,mumbai,32,"mall,metro",22.529816489826743,residential,48181512.59
+835,goregaon,mumbai,22,"school,hospital",22.596843682601342,residential,19924299.51
+1190,goregaon,mumbai,21,"school,hospital",33.25454008875318,commercial,36047709.2
+1634,goregaon,mumbai,27,"mall,metro",6.314333184323893,residential,49876097.34
+2112,goregaon,mumbai,31,"park,school",31.84739083782107,commercial,60330445.06
+880,goregaon,mumbai,19,"hospital,mall",17.570124832636733,residential,28689329.51
+1083,goregaon,mumbai,23,"park,school",6.363356774107274,residential,31526694.26
+1179,goregaon,mumbai,40,"hospital,mall",25.540828376815433,residential,36190596.03
+1077,goregaon,mumbai,47,"hospital,mall",21.874957705893852,commercial,29405054.61
+2041,goregaon,mumbai,28,"mall,metro",5.108016392589297,residential,59598926.38
+436,goregaon,mumbai,47,"hospital,mall",20.11453294182286,commercial,14059489.78
+1642,goregaon,mumbai,33,"park,school",21.564527627625328,residential,52458157.68
+1317,goregaon,mumbai,30,"park,school",6.1727202623222786,residential,30173602.12
+1537,goregaon,mumbai,32,"school,hospital",24.272393728797955,residential,50390817.24
+1260,goregaon,mumbai,15,"park,school",23.980486379226935,commercial,35768203.57
+1729,goregaon,mumbai,50,"park,school",26.662387728753295,commercial,40341645.17
+1607,goregaon,mumbai,18,"school,hospital",29.717953582588542,residential,41839713.11
+1545,goregaon,mumbai,16,"school,hospital",26.6780658243082,commercial,37666226.58
+1454,goregaon,mumbai,50,"mall,metro",29.505410889279442,residential,46737795.96
+1728,goregaon,mumbai,40,"mall,metro",18.381677172718152,commercial,43909321.93
+1909,goregaon,mumbai,45,"school,hospital",19.878835271637186,commercial,45933103.64
+1157,goregaon,mumbai,26,"mall,metro",22.089739551511045,residential,36485644.96
+1555,goregaon,mumbai,25,"mall,metro",29.524976028695107,residential,35198559.84
+684,goregaon,mumbai,42,"mall,metro",18.6507247930313,commercial,16421096.1
+810,goregaon,mumbai,23,"school,hospital",23.09880549454613,commercial,24714912.4
+1972,goregaon,mumbai,15,"school,hospital",8.965371381121038,residential,44630340.0
+1496,goregaon,mumbai,15,"school,hospital",33.72853073291347,residential,35900288.1
+1786,goregaon,mumbai,20,"mall,metro",9.17690295288535,commercial,57063532.98
+1068,goregaon,mumbai,45,"mall,metro",12.314265755387133,commercial,27600016.33
+904,goregaon,mumbai,17,"school,hospital",21.33926301376637,residential,20464325.8
+2495,goregaon,mumbai,41,"mall,metro",5.0363126200810715,residential,80659150.73
+498,goregaon,mumbai,39,"mall,metro",15.59929735705955,commercial,12419503.27
+1325,goregaon,mumbai,39,"school,hospital",19.754617252102282,residential,43357893.22
+1319,goregaon,mumbai,33,"park,school",7.288698244623115,commercial,31048529.34
+884,goregaon,mumbai,20,"school,hospital",23.135191459455257,residential,23370774.15
+2155,goregaon,mumbai,26,"hospital,mall",9.506601071309495,commercial,61075680.74
+1575,goregaon,mumbai,21,"park,school",32.48703066242876,commercial,41425523.45
+1487,goregaon,mumbai,19,"school,hospital",30.851419255084156,residential,46810845.42
+1000,goregaon,mumbai,39,"hospital,mall",26.640303909074678,commercial,25986867.24
+675,goregaon,mumbai,42,"park,school",9.340034594486731,commercial,15975520.1
+922,goregaon,mumbai,39,"park,school",14.579473397330897,commercial,22530886.49
+2371,goregaon,mumbai,41,"park,school",9.146638319374826,residential,71524328.95
+1969,goregaon,mumbai,46,"hospital,mall",20.974232972311796,residential,53338217.12
+1975,goregaon,mumbai,41,"mall,metro",26.09279939992358,residential,46089624.0
+1881,goregaon,mumbai,16,"park,school",21.75123404128693,residential,42194780.82
+851,goregaon,mumbai,37,"park,school",30.462544973789704,residential,19630244.02
+1607,goregaon,mumbai,50,"hospital,mall",12.274922254101343,residential,44283054.32
+628,goregaon,mumbai,22,"mall,metro",16.323823496643048,residential,19321266.57
+2139,goregaon,mumbai,21,"school,hospital",19.304797091507282,residential,56817964.79
+523,goregaon,mumbai,24,"school,hospital",12.351374121844461,residential,12575603.37
+2105,goregaon,mumbai,26,"hospital,mall",27.30673815461525,commercial,50681733.29
+2325,goregaon,mumbai,36,"hospital,mall",28.441907237063454,residential,62796045.46
+1574,goregaon,mumbai,18,"school,hospital",23.12520796458414,residential,37219097.81
+2461,goregaon,mumbai,40,"hospital,mall",25.397106322998244,commercial,59546125.71
+1456,goregaon,mumbai,47,"park,school",26.28058446064178,commercial,47603166.63
+1042,goregaon,mumbai,20,"hospital,mall",34.33778851130747,residential,26513136.92
+1267,goregaon,mumbai,18,"mall,metro",16.768728759220338,residential,34062670.56
+2318,goregaon,mumbai,40,"hospital,mall",9.944730785788218,commercial,64317690.09
+2137,goregaon,mumbai,21,"school,hospital",7.3342572963315895,commercial,52529559.82
+514,goregaon,mumbai,25,"school,hospital",6.959575014988318,residential,12892525.83
+1666,goregaon,mumbai,27,"school,hospital",12.210054606758357,residential,40821549.29
+583,goregaon,mumbai,45,"school,hospital",6.441467027644878,residential,16740192.28
+1664,goregaon,mumbai,37,"park,school",33.7621706869013,residential,37431616.41
+1688,goregaon,mumbai,37,"mall,metro",26.079704316262845,residential,52025229.23
+1757,goregaon,mumbai,47,"school,hospital",20.065313534623606,residential,47371547.87
+497,goregaon,mumbai,39,"hospital,mall",22.59074610519685,residential,14401253.75
+1588,goregaon,mumbai,44,"school,hospital",31.556116184432668,residential,38438647.84
+1348,goregaon,mumbai,24,"mall,metro",34.802498883828676,commercial,43547548.66
+2232,goregaon,mumbai,36,"park,school",15.80949067103954,commercial,69629339.9
+563,goregaon,mumbai,39,"mall,metro",11.264619230555628,residential,18227471.37
+1024,goregaon,mumbai,46,"school,hospital",29.141793328883146,residential,29439272.6
+1667,goregaon,mumbai,20,"hospital,mall",7.823419821591939,commercial,47556048.95
+1095,goregaon,mumbai,25,"school,hospital",13.40351966988555,commercial,35983262.43
+1847,goregaon,mumbai,26,"hospital,mall",12.73832298505529,commercial,43218631.78
+1448,goregaon,mumbai,43,"mall,metro",33.19488408952196,commercial,44811602.57
+562,goregaon,mumbai,33,"hospital,mall",17.27099691115341,residential,14876638.85
+2205,goregaon,mumbai,35,"park,school",7.504716444507441,commercial,58448820.04
+2472,goregaon,mumbai,17,"school,hospital",27.231276808066063,residential,67834234.71
+432,goregaon,mumbai,21,"park,school",16.274650653795703,commercial,10424633.91
+698,goregaon,mumbai,44,"school,hospital",15.468138858499586,commercial,17378925.77
+2304,goregaon,mumbai,26,"school,hospital",32.52381055642995,commercial,54425395.28
+2174,goregaon,mumbai,36,"school,hospital",14.51854586804439,commercial,53554479.48
+1270,goregaon,mumbai,45,"school,hospital",13.35125188259303,residential,38437384.89
+1037,goregaon,mumbai,24,"mall,metro",14.605598576711095,residential,34245449.57
+1957,goregaon,mumbai,38,"hospital,mall",34.35682471247233,residential,45204513.83
+621,goregaon,mumbai,16,"hospital,mall",13.0954433050911,residential,15381375.33
+742,goregaon,mumbai,32,"hospital,mall",7.451273344085393,commercial,17798698.59
+2119,goregaon,mumbai,31,"mall,metro",29.91647274503312,residential,59920049.97
+2155,goregaon,mumbai,34,"mall,metro",10.958159271465892,commercial,56526974.15
+2372,goregaon,mumbai,25,"hospital,mall",15.64077129496585,commercial,65765107.74
+440,goregaon,mumbai,27,"school,hospital",26.68171048193331,residential,12620156.81
+1726,goregaon,mumbai,35,"school,hospital",9.515188387744377,commercial,51499533.5
+1004,goregaon,mumbai,35,"school,hospital",28.76050456687274,commercial,28105766.65
+1476,goregaon,mumbai,15,"hospital,mall",33.29971235227082,residential,41670058.6
+2240,goregaon,mumbai,21,"school,hospital",11.558683159733011,residential,66205134.53
+2121,goregaon,mumbai,25,"hospital,mall",11.484118554313232,residential,64054616.1
+1182,goregaon,mumbai,15,"park,school",29.41338048066075,residential,39341142.46
+1636,goregaon,mumbai,47,"school,hospital",25.979514382585283,commercial,53075987.31
+2095,goregaon,mumbai,37,"hospital,mall",20.695094683931053,commercial,56557316.13
+864,goregaon,mumbai,44,"hospital,mall",16.193644592962077,residential,28317692.64
+2185,goregaon,mumbai,42,"park,school",26.062778671169983,residential,58281617.64
+758,goregaon,mumbai,21,"school,hospital",24.488737586832006,commercial,23821306.21
+824,goregaon,mumbai,49,"school,hospital",24.005754540287707,residential,23038821.81
+1587,goregaon,mumbai,28,"mall,metro",28.306407583049655,commercial,50687349.91
+868,goregaon,mumbai,45,"school,hospital",15.518410496625922,commercial,21344358.41
+2091,goregaon,mumbai,40,"school,hospital",33.18850428789342,residential,68102882.98
+2478,goregaon,mumbai,31,"park,school",30.15452524334335,commercial,63378243.71
+1389,goregaon,mumbai,41,"school,hospital",5.465901946927641,residential,31178278.29
+1933,goregaon,mumbai,48,"park,school",15.052698143663422,commercial,61501526.07
+1390,goregaon,mumbai,40,"mall,metro",23.48803750673704,commercial,39787753.8
+611,goregaon,mumbai,42,"mall,metro",33.1817514381424,commercial,19170072.72
+1111,goregaon,mumbai,35,"mall,metro",18.12204761005256,residential,29902490.58
+917,goregaon,mumbai,40,"park,school",30.120136339866853,residential,25719721.57
+1720,goregaon,mumbai,20,"school,hospital",18.122631164983986,residential,42453282.28
+513,goregaon,mumbai,49,"school,hospital",22.153815042019975,residential,15042553.31
+934,goregaon,mumbai,37,"mall,metro",12.191656526741992,residential,31208899.17
+1616,goregaon,mumbai,30,"hospital,mall",28.111747561502394,residential,39706548.29
+1526,goregaon,mumbai,24,"school,hospital",24.15159709411811,residential,35600343.54
+854,goregaon,mumbai,22,"school,hospital",9.255061585261604,commercial,23521064.85
+1139,goregaon,mumbai,46,"park,school",32.38157387934235,residential,26697139.43
+2000,goregaon,mumbai,16,"hospital,mall",7.2072790905499335,residential,47055046.52
+1261,goregaon,mumbai,39,"park,school",24.00655394233072,commercial,37953789.6
+1059,goregaon,mumbai,15,"mall,metro",24.789991803607457,residential,25854248.17
+880,goregaon,mumbai,37,"hospital,mall",34.84748146250955,residential,29330626.86
+1048,goregaon,mumbai,31,"school,hospital",10.785357789571009,residential,29599275.85
+494,goregaon,mumbai,24,"mall,metro",31.00622773875832,residential,13931562.3
+1288,goregaon,mumbai,23,"mall,metro",7.503282813968635,residential,29276720.84
+1496,goregaon,mumbai,27,"school,hospital",15.456601390559278,commercial,38095736.64
+2313,goregaon,mumbai,46,"hospital,mall",20.37969640188195,commercial,71115909.5
+1190,goregaon,mumbai,27,"park,school",33.856138972824645,residential,29989241.48
+1676,goregaon,mumbai,28,"hospital,mall",18.004150140924153,commercial,40651907.76
+2135,goregaon,mumbai,32,"park,school",23.687328869303858,commercial,62083437.79
+2158,goregaon,mumbai,37,"park,school",31.936840332902623,residential,53166371.23
+2240,goregaon,mumbai,17,"park,school",22.606077285813154,commercial,54371944.24
+1842,goregaon,mumbai,22,"mall,metro",29.271214005950352,commercial,49478025.88
