@@ -1,0 +1,74 @@
+[
+  {
+    "price": 11678605.144464973,
+    "area": 1021.0,
+    "city": "bangalore",
+    "property_type": "residential",
+    "latitude": 19.331261818245235,
+    "longitude": 72.41628972805688,
+    "contact": "9863659922",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:18.571022"
+  },
+  {
+    "price": 26550268.79622089,
+    "area": 2607.0,
+    "city": "bangalore",
+    "property_type": "residential",
+    "latitude": 18.646013216012395,
+    "longitude": 72.74125276007742,
+    "contact": "9316655995",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:18.571064"
+  },
+  {
+    "price": 23377446.24598962,
+    "area": 2257.0,
+    "city": "bangalore",
+    "property_type": "residential",
+    "latitude": 19.103880762384946,
+    "longitude": 73.22719905202682,
+    "contact": "9713269791",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:18.571093"
+  },
+  {
+    "price": 10977404.0,
+    "area": 1972.0,
+    "city": "bangalore",
+    "property_type": "residential",
+    "latitude": 18.94186108946248,
+    "longitude": 72.89754345304533,
+    "contact": "9532967561",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:18.571161"
+  },
+  {
+    "price": 5165461.0,
+    "area": 1035.0,
+    "city": "bangalore",
+    "property_type": "commercial",
+    "latitude": 19.01333985823387,
+    "longitude": 72.71152547731005,
+    "contact": "9649071895",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:18.571202"
+  },
+  {
+    "price": 4993779.0,
+    "area": 2722.0,
+    "city": "bangalore",
+    "property_type": "residential",
+    "latitude": 18.904976641289437,
+    "longitude": 72.76559911174321,
+    "contact": "9645602246",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:18.571233"
+  }
+]

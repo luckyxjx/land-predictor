@@ -1,0 +1,74 @@
+[
+  {
+    "price": 27800903.778474018,
+    "area": 2142.0,
+    "city": "delhi",
+    "property_type": "residential",
+    "latitude": 18.607089800243696,
+    "longitude": 72.73152053624665,
+    "contact": "9526323547",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:16.564249"
+  },
+  {
+    "price": 21829059.429877978,
+    "area": 1648.0,
+    "city": "delhi",
+    "property_type": "residential",
+    "latitude": 19.386827962345592,
+    "longitude": 72.49432742433135,
+    "contact": "9969971211",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:16.564299"
+  },
+  {
+    "price": 28375179.162874375,
+    "area": 2860.0,
+    "city": "delhi",
+    "property_type": "residential",
+    "latitude": 19.0957742504955,
+    "longitude": 72.68566943694931,
+    "contact": "9380897577",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:16.564333"
+  },
+  {
+    "price": 7186378.0,
+    "area": 1496.0,
+    "city": "delhi",
+    "property_type": "residential",
+    "latitude": 19.102580287975865,
+    "longitude": 73.27223069269789,
+    "contact": "9141481805",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:16.564402"
+  },
+  {
+    "price": 10853721.0,
+    "area": 3649.0,
+    "city": "delhi",
+    "property_type": "residential",
+    "latitude": 19.165543341640678,
+    "longitude": 73.35870203435184,
+    "contact": "9822176206",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:16.564448"
+  },
+  {
+    "price": 8885363.0,
+    "area": 2553.0,
+    "city": "delhi",
+    "property_type": "residential",
+    "latitude": 18.88291470094873,
+    "longitude": 73.18310431181564,
+    "contact": "9142232315",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:16.564482"
+  }
+]

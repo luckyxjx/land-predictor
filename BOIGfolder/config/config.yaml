@@ -1,0 +1,70 @@
+# Big Data Land Price Analytics Configuration
+
+# Spark Configuration
+spark:
+  app_name: "LandPriceBigData"
+  master: "local[*]"
+  config:
+    spark.sql.adaptive.enabled: true
+    spark.sql.adaptive.coalescePartitions.enabled: true
+    spark.serializer: "org.apache.spark.serializer.KryoSerializer"
+
+# Data Configuration
+data:
+  raw_data_path: "data/raw/"
+  processed_data_path: "data/processed/"
+  models_path: "data/models/"
+  batch_size: 10000
+  
+# ML Configuration
+ml:
+  model_type: "GBTRegressor"
+  train_split: 0.8
+  test_split: 0.2
+  max_iter: 100
+  max_depth: 8
+  step_size: 0.1
+
+# Streaming Configuration
+streaming:
+  kafka:
+    bootstrap_servers: ["localhost:9092"]
+    topic: "property-updates"
+    auto_offset_reset: "latest"
+  redis:
+    host: "localhost"
+    port: 6379
+    db: 0
+
+# API Configuration
+api:
+  host: "0.0.0.0"
+  port: 8000
+  workers: 4
+
+# UI Configuration
+ui:
+  dashboard_port: 8504
+  realtime_port: 8503
+  basic_port: 8502
+
+# Cities Configuration
+cities:
+  tier1: ["mumbai", "delhi", "bangalore", "hyderabad", "pune", "chennai"]
+  tier2: ["kolkata", "ahmedabad", "surat", "jaipur", "lucknow", "kanpur"]
+  
+# Price Configuration
+pricing:
+  base_rates:
+    mumbai: 12000
+    delhi: 10000
+    bangalore: 11000
+    hyderabad: 9000
+    pune: 8000
+    chennai: 8000
+    kolkata: 6000
+    ahmedabad: 7000
+    surat: 6500
+    jaipur: 6000
+    lucknow: 5000
+    kanpur: 4000

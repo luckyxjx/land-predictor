@@ -1,0 +1,74 @@
+[
+  {
+    "price": 33098684.95031783,
+    "area": 2429.0,
+    "city": "mumbai",
+    "property_type": "residential",
+    "latitude": 18.93665125243409,
+    "longitude": 73.0425020814924,
+    "contact": "9507086671",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:14.561946"
+  },
+  {
+    "price": 9335191.649605127,
+    "area": 694.0,
+    "city": "mumbai",
+    "property_type": "residential",
+    "latitude": 19.026854850811723,
+    "longitude": 73.33866567409572,
+    "contact": "9974375358",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:14.561966"
+  },
+  {
+    "price": 30124964.37692868,
+    "area": 2117.0,
+    "city": "mumbai",
+    "property_type": "residential",
+    "latitude": 19.28410302817571,
+    "longitude": 73.02140552801036,
+    "contact": "9910294597",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:14.561977"
+  },
+  {
+    "price": 8843718.0,
+    "area": 1077.0,
+    "city": "mumbai",
+    "property_type": "commercial",
+    "latitude": 19.32903210846053,
+    "longitude": 72.79430041489323,
+    "contact": "9689626499",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:14.561996"
+  },
+  {
+    "price": 5783491.0,
+    "area": 3147.0,
+    "city": "mumbai",
+    "property_type": "residential",
+    "latitude": 18.63868469574243,
+    "longitude": 72.72972509191885,
+    "contact": "9406070760",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:14.562009"
+  },
+  {
+    "price": 14446050.0,
+    "area": 3197.0,
+    "city": "mumbai",
+    "property_type": "residential",
+    "latitude": 19.52611191429107,
+    "longitude": 73.26934010417605,
+    "contact": "9444284570",
+    "validation_status": "valid",
+    "validation_errors": [],
+    "validated_at": "2025-11-27T14:03:14.562019"
+  }
+]
